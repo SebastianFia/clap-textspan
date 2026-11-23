@@ -1,0 +1,40 @@
+{
+  "heads": [
+    {
+      "block": 0,
+      "head": 1,
+      "summary": "Human voices and vocalizations",
+      "reason": "All five descriptions name whispering, sighing, laughter/speech, babbling or clear speech."
+    },
+    {
+      "block": 0,
+      "head": 16,
+      "summary": "Whistles, alerts and sharp calls",
+      "reason": "Whistling, siren, timer, frog calls and tire squeal form a cross-source set of prominent calls/signals; this is not a pure siren detector."
+    },
+    {
+      "block": 0,
+      "head": 26,
+      "summary": "Musical sources and sustained texture",
+      "reason": "Conga, flute/guitar and choir descriptions are interleaved with fade-in and continuity properties; the role retains that mixture rather than claiming a single source."
+    },
+    {
+      "block": 1,
+      "head": 13,
+      "summary": "Clicks, closures and small impacts",
+      "reason": "Cup/spoon contact, screen-door creak, container closure, bicycle ticking and a dull knock consistently describe everyday short mechanical events."
+    },
+    {
+      "block": 1,
+      "head": 24,
+      "summary": "Animal calls and barking",
+      "reason": "Four ranks name geese, dog barking, rooster and bat vocalizations; rank three is a generic continuous-sound property."
+    },
+    {
+      "block": 1,
+      "head": 30,
+      "summary": "Vehicle engines and horns",
+      "reason": "The first four ranks name truck engine, car horn, diesel startup and race-car acceleration; rank five is a loudness-envelope property."
+    }
+  ]
+}

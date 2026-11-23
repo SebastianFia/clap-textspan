@@ -1,0 +1,78 @@
+{
+  "clap_commit": "1fd4c37df5ffbfcfbad5415c170bc66cf94c9994",
+  "checkpoint_revision": "b3708341862f581175dba5c356a4ebf74a9b6651",
+  "checkpoint_url": "https://huggingface.co/lukewys/laion_clap/resolve/b3708341862f581175dba5c356a4ebf74a9b6651/630k-audioset-best.pt",
+  "checkpoint_sha256": "8053c9775516af2f4902e1e8281e356cc1bf7a85e8b761908170767b77c3f037",
+  "checkpoint_bytes": 1863587645,
+  "roberta_config_url": "https://huggingface.co/FacebookAI/roberta-base/resolve/e2da8e2f811d1448a5b465c236feacd80ffbac7b/config.json",
+  "roberta_config_sha256": "ef0185e2aae6e06c5f105a285006952c340e20c7dbf43c86ec82601b13fc45e9",
+  "roberta_revision": "e2da8e2f811d1448a5b465c236feacd80ffbac7b",
+  "clap_archive_sha256": "14e99f89df19ef7e073446895d0f6b685601cd2e4529ba6691b833d956fb77a0",
+  "vocabulary": [
+    {
+      "label": "air_conditioner",
+      "prompt": "An air conditioner humming.",
+      "target": 0
+    },
+    {
+      "label": "car_horn",
+      "prompt": "A car horn honking.",
+      "target": 1
+    },
+    {
+      "label": "children_playing",
+      "prompt": "Children playing.",
+      "target": 2
+    },
+    {
+      "label": "dog_bark",
+      "prompt": "A dog barking.",
+      "target": 3
+    },
+    {
+      "label": "drilling",
+      "prompt": "A power drill drilling.",
+      "target": 4
+    },
+    {
+      "label": "engine_idling",
+      "prompt": "A vehicle engine idling.",
+      "target": 5
+    },
+    {
+      "label": "gun_shot",
+      "prompt": "A gunshot.",
+      "target": 6
+    },
+    {
+      "label": "jackhammer",
+      "prompt": "A jackhammer pounding.",
+      "target": 7
+    },
+    {
+      "label": "siren",
+      "prompt": "A siren sounding.",
+      "target": 8
+    },
+    {
+      "label": "street_music",
+      "prompt": "Music being played in the street.",
+      "target": 9
+    }
+  ],
+  "support_rank": 80,
+  "max_k": 32,
+  "random_seed": 4503,
+  "torch_seed": 4518,
+  "fit_clips": 5929,
+  "eval_clips": 8732,
+  "disjoint_clips": 7962,
+  "method": "observed-forward affine accounting; signed raw-residual-std TextSpan",
+  "gaussian": "standard_normal float32, NOT row-normalized; retained to reproduce the saved paper results",
+  "tokenizer_files": {
+    "vocab.json": "9e7f63c2d15d666b52e21d250d2e513b87c9b713cfa6987a82ed89e5e6e50655",
+    "merges.txt": "1ce1664773c50f3e0cc8842619a93edc4624525b728b188a9e0be33b7726adc5",
+    "tokenizer.json": "847bbeab6174d66a88898f729d52fa8d355fafe1bea101cf960dd404581df70e",
+    "tokenizer_config.json": "994f46754c5bf4014f1aa92d34b1374319c3a6b3f702105cd5b742beaecd18ce"
+  }
+}

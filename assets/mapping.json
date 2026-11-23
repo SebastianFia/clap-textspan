@@ -1,0 +1,837 @@
+{
+  "mappings": [
+    {
+      "phrase_id": "audio-v2-0001",
+      "urbansound_labels": [
+        "dog_bark"
+      ],
+      "rationale": "Explicit dog barking."
+    },
+    {
+      "phrase_id": "audio-v2-0002",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0003",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0005",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0009",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0013",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0014",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0016",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0019",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0020",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0027",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0033",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0037",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0040",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0041",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0042",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0043",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0044",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0049",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0064",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0070",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0073",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0078",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0082",
+      "urbansound_labels": [
+        "engine_idling"
+      ],
+      "rationale": "Explicit operating engine."
+    },
+    {
+      "phrase_id": "audio-v2-0084",
+      "urbansound_labels": [
+        "engine_idling"
+      ],
+      "rationale": "Explicit operating engine."
+    },
+    {
+      "phrase_id": "audio-v2-0085",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0086",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0090",
+      "urbansound_labels": [
+        "engine_idling"
+      ],
+      "rationale": "Explicit operating engine."
+    },
+    {
+      "phrase_id": "audio-v2-0092",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0094",
+      "urbansound_labels": [
+        "drilling"
+      ],
+      "rationale": "Explicit hammer drill."
+    },
+    {
+      "phrase_id": "audio-v2-0096",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0098",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0102",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0104",
+      "urbansound_labels": [
+        "engine_idling"
+      ],
+      "rationale": "Explicit operating engine."
+    },
+    {
+      "phrase_id": "audio-v2-0106",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0107",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0116",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0121",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0122",
+      "urbansound_labels": [
+        "car_horn"
+      ],
+      "rationale": "Explicit car horn."
+    },
+    {
+      "phrase_id": "audio-v2-0131",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0135",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0136",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0140",
+      "urbansound_labels": [
+        "engine_idling"
+      ],
+      "rationale": "Explicit operating engine."
+    },
+    {
+      "phrase_id": "audio-v2-0142",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0146",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0153",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0157",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0158",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0160",
+      "urbansound_labels": [
+        "engine_idling"
+      ],
+      "rationale": "Explicit operating engine."
+    },
+    {
+      "phrase_id": "audio-v2-0165",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0166",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0167",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0168",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0170",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0174",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0175",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0181",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0184",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0185",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0188",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0201",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0205",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0208",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0209",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0213",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0221",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0225",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0226",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0228",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0230",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0231",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0232",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0233",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0240",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0253",
+      "urbansound_labels": [
+        "siren"
+      ],
+      "rationale": "Explicit siren."
+    },
+    {
+      "phrase_id": "audio-v2-0266",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0297",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0327",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0330",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0331",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0333",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0334",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0335",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0336",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0344",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0348",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0350",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0354",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0358",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0360",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0364",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0372",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0383",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0384",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0391",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0398",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0404",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0412",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0421",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0424",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0427",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0428",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0443",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0444",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0451",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0455",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0459",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0461",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0464",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0465",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0478",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0480",
+      "urbansound_labels": [
+        "street_music"
+      ],
+      "rationale": "Played instrument or musical vocalization."
+    },
+    {
+      "phrase_id": "audio-v2-0483",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0496",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0502",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0505",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0510",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0515",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0517",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0531",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0533",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0544",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0549",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0560",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0562",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0571",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0578",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0582",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0588",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0594",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0597",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0598",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0607",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0618",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0630",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0635",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0654",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0665",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0667",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0682",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0698",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0703",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0724",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0730",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0733",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0739",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0759",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0769",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0770",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0772",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0774",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0791",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0793",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0796",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    },
+    {
+      "phrase_id": "audio-v2-0798",
+      "urbansound_labels": [],
+      "rationale": "No allowed source class is explicitly named."
+    }
+  ]
+}

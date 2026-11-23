@@ -1,0 +1,205 @@
+{
+  "status": "Full raw-audio reproduction matched every paper reference value",
+  "extraction_batch_size": 16,
+  "internal_replay_batch_size": 64,
+  "environment": {
+    "cuda": "12.6",
+    "numpy": "1.26.4",
+    "python": "3.12.3",
+    "torch": "2.11.0+cu126"
+  },
+  "gpu": "NVIDIA GeForce GTX 1070 Ti (8 GB)",
+  "comparisons": {
+    "components": {
+      "maximum_numeric_error": 0.0,
+      "rows": 10
+    },
+    "descriptions": {
+      "maximum_numeric_error": 0.0,
+      "rows": 2048
+    },
+    "edits": {
+      "maximum_numeric_error": 0.0,
+      "rows": 10
+    },
+    "random-edits": {
+      "maximum_numeric_error": 0.0,
+      "rows": 64
+    },
+    "reconstruction": {
+      "maximum_numeric_error": 0.0,
+      "rows": 132
+    },
+    "removal": {
+      "maximum_numeric_error": 0.0,
+      "rows": 26
+    }
+  },
+  "fit_clips": 5929,
+  "evaluation_clips": 7962,
+  "reference_scope": "10 component rows, 26 cumulative-curve rows, 132 reconstruction rows, 10 class-group rows, 64 random-draw rows, 2048 descriptions",
+  "checkpoint_smoke": {
+    "accounting": {
+      "embedding": [
+        3.725290298461914e-08,
+        2.423311651336112e-07
+      ],
+      "merge0": [
+        1.3113021850585938e-06,
+        3.0215597809757864e-07
+      ],
+      "merge1": [
+        3.337860107421875e-06,
+        5.766491798144949e-07
+      ],
+      "merge2": [
+        4.57763671875e-05,
+        2.8211412165872344e-07
+      ],
+      "stage0_entry": [
+        0.0,
+        0.0
+      ],
+      "stage0_final": [
+        9.5367431640625e-07,
+        1.0214695721175385e-07
+      ],
+      "stage1_entry": [
+        1.3113021850585938e-06,
+        3.0215597809757864e-07
+      ],
+      "stage1_final": [
+        1.9073486328125e-06,
+        2.0072714691098978e-07
+      ],
+      "stage2_entry": [
+        3.337860107421875e-06,
+        5.766491798144949e-07
+      ],
+      "stage2_final": [
+        1.52587890625e-05,
+        8.762907947553989e-08
+      ],
+      "stage3_entry": [
+        4.57763671875e-05,
+        2.8211412165872344e-07
+      ],
+      "stage3_final": [
+        4.57763671875e-05,
+        1.2750834242356063e-07
+      ]
+    },
+    "architecture": {
+      "audio_config": {
+        "audio_length": 1024,
+        "class_num": 527,
+        "clip_samples": 480000,
+        "fmax": 14000,
+        "fmin": 50,
+        "hop_size": 480,
+        "mel_bins": 64,
+        "model_name": "tiny",
+        "model_type": "HTSAT",
+        "sample_rate": 48000,
+        "window_size": 1024
+      },
+      "checkpoint_compatibility_removed_buffers": [
+        "text_branch.embeddings.position_ids"
+      ],
+      "checkpoint_loading": "weights_only=True, mmap=True; inspected NumPy scalar/dtype/Float64DType allowlist",
+      "checks": {
+        "audio_preprocessing": true,
+        "eval": true,
+        "final_grid": true,
+        "final_no_merge": true,
+        "final_width": true,
+        "final_window": true,
+        "float32_single_device": true,
+        "htsat_tiny": true,
+        "nonfusion": true,
+        "projection_shapes": true,
+        "readout_folding": true,
+        "relu_projection": true,
+        "square_spectrogram": true
+      },
+      "depths": [
+        2,
+        2,
+        6,
+        2
+      ],
+      "device": "cuda:0",
+      "final_grid": [
+        8,
+        8
+      ],
+      "final_head_width": 24,
+      "heads": [
+        4,
+        8,
+        16,
+        32
+      ],
+      "normalization": "torch.nn.functional.normalize p=2 dim=-1 eps=1e-12",
+      "parameter_count": 158334169,
+      "projection": "Sequential(\n  (0): Linear(in_features=768, out_features=512, bias=True)\n  (1): ReLU()\n  (2): Linear(in_features=512, out_features=512, bias=True)\n)",
+      "roberta_config_provenance": {
+        "roberta_config_sha256": "ef0185e2aae6e06c5f105a285006952c340e20c7dbf43c86ec82601b13fc45e9",
+        "roberta_config_url": "https://huggingface.co/FacebookAI/roberta-base/resolve/e2da8e2f811d1448a5b465c236feacd80ffbac7b/config.json",
+        "roberta_revision": "e2da8e2f811d1448a5b465c236feacd80ffbac7b"
+      },
+      "text_initialization": "pinned roberta-base config; every persistent weight strictly loaded from CLAP checkpoint"
+    },
+    "cpu_gpu_component_max_error": 7.636845111846924e-08,
+    "cpu_gpu_max_error": 1.30385160446167e-07,
+    "diagnostics": {
+      "component_norm_min": 0.013263099826872349,
+      "raw_norm_min": 4.557906150817871
+    },
+    "no_op_bit_exact": true,
+    "replay_max_error": 0.0,
+    "sample_ids": [
+      "101415-3-0-2.wav",
+      "101415-3-0-3.wav"
+    ],
+    "tolerances": {
+      "contribution_atol": 1e-06,
+      "embedding_atol": 1e-06,
+      "embedding_rtol": 1e-05
+    }
+  },
+  "local_additional_checks": {
+    "mathematical_protocol_tests": 6,
+    "nonempty_internal_replacement_check": "Passed on local CPU, including exact selected-slice replacement and preservation of unselected block-0 slices",
+    "offline_checkpoint_smoke": "Passed; no unused tokenizer downloads"
+  },
+  "website": {
+    "heads": 64,
+    "ranks": 2048,
+    "audio_slots": 192,
+    "distinct_previews": 181,
+    "all_audio_cc0": true,
+    "all_audio_sha256_verified": true,
+    "website_bytes": 15711396,
+    "javascript": "Browser-loaded without script errors; search, six-head selection filter and rank expansion checked",
+    "playback": "Native audio controls: duration 10 seconds, paused=false, no media error",
+    "responsive": "Single- and two-column layouts; DOM width check found no horizontal overflow"
+  },
+  "batch8_note": "An initial batch-8 run matched components, reconstruction and edits exactly; ten random-subset average cells differed by at most 1.902978542e-6 accuracy. Restoring the original batch size 16 eliminated all differences. No comparison tolerance was widened.",
+  "supplementary_normalized_gaussian": {
+    "k3_accuracy": 0.30243657372519467,
+    "k32_accuracy": 0.6719417231851293,
+    "extraction_batch_size": 8
+  },
+  "code_validation": "The model, accounting and TextSpan function ASTs, and fitting/reconstruction/component/internal-edit computations, matched the full-run source. Subsequent changes add formatting, stronger checks, hardware provenance and an atomic completion marker; no numerical operations changed.",
+  "source_sha256": {
+    "src/clap_textspan/__init__.py": "3930807d2afba3153c0a012de103fcebaeed372b41746d388fe02cd4b18a08d8",
+    "src/clap_textspan/__main__.py": "af3ac36d82876a977d08a7b324858a315430658aa9391358ed6ceeafe81abc6a",
+    "src/clap_textspan/accounting.py": "e01b419463c6366f1b6ae7d5ed2f37271583ae742b50a9481b467c5a22ce431f",
+    "src/clap_textspan/data.py": "5ed6df51b1926ab4f5d0d30dbf213d53b51acd270ffd8e60c702a97f08dfb0f2",
+    "src/clap_textspan/experiment.py": "641d94937790273f8d4594bc6ee98a87efd47f9367f8ba5667f376ee72c91347",
+    "src/clap_textspan/model.py": "f22e8ff87a35c94bc6ee9b4409dfc694275da20263caeec56af0fadf33a6c967",
+    "src/clap_textspan/report.py": "034894f9a162e3585e028c9e10fd618fcf60763779bc6955f0ac78ee76572065",
+    "src/clap_textspan/span.py": "ba7ac86580993f99ae0c2fc13ba105711a61e86b34e49e1018c41d04282b3c44"
+  }
+}

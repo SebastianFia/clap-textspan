@@ -18,3 +18,9 @@ external/
 tmp/
 .DS_Store
 Thumbs.db
+
+# Packaging and incidental logs
+*.egg-info/
+build/
+dist/
+*.log

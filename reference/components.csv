@@ -1,0 +1,11 @@
+cohort,condition,clips,correct,accuracy
+source-disjoint,clean,7962,6309,0.792388847023361
+source-disjoint,all_mlps_mean,7962,6108,0.7671439336850038
+source-disjoint,all_mha_mean,7962,5860,0.7359959809093193
+source-disjoint,all_mha_and_mlps_mean,7962,1035,0.12999246420497362
+source-disjoint,mean_only,7962,906,0.11379050489826677
+full,clean,8732,6898,0.7899679340357306
+full,all_mlps_mean,8732,6716,0.7691250572606505
+full,all_mha_mean,8732,6385,0.7312185066422354
+full,all_mha_and_mlps_mean,8732,1111,0.1272331653687586
+full,mean_only,8732,1000,0.11452130096197893

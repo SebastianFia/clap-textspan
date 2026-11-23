@@ -1,0 +1,187 @@
+{
+  "dictionary": {
+    "request": {
+      "model": "gpt-5.4-mini-2026-03-17",
+      "reasoning": {
+        "effort": "high"
+      },
+      "max_output_tokens": 90000,
+      "store": false,
+      "text": {
+        "format": {
+          "type": "json_schema",
+          "name": "paper_dictionary",
+          "strict": true,
+          "schema": {
+            "type": "object",
+            "properties": {
+              "descriptions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "string"
+                    },
+                    "category": {
+                      "type": "string",
+                      "enum": [
+                        "nature_animals",
+                        "machines_transport",
+                        "household_materials",
+                        "pitch_tonality",
+                        "voice_vocalization",
+                        "music_instruments",
+                        "texture_timbre",
+                        "time_rhythm",
+                        "dynamics_envelope",
+                        "space_background_relations"
+                      ]
+                    },
+                    "text": {
+                      "type": "string"
+                    },
+                    "provenance_batch": {
+                      "type": "string",
+                      "enum": [
+                        "single-prompt-v1"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "category",
+                    "text",
+                    "provenance_batch"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 800,
+                "maxItems": 800
+              }
+            },
+            "required": [
+              "descriptions"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    "receipt": {
+      "response_id": "resp_0a42fff0fe3d063f016b02d455380c87d28705be45f007e8f3",
+      "status": "completed",
+      "usage": {
+        "input_tokens": 3364,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 0
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 47864,
+        "output_tokens_details": {
+          "reasoning_tokens": 18815
+        },
+        "total_tokens": 51228
+      },
+      "request_sha256": "96cd0a96e8f1ae2cf19a8f677eec541c357f95abec4c76692ef529af3d637d98",
+      "response_sha256": "cbd5292f57dd13720c871fb36186b11823003d3f1c907529417fdaf62d9f668d",
+      "returned_model": "gpt-5.4-mini-2026-03-17",
+      "finished_utc": "2026-11-22T11:41:10.041869+00:00"
+    }
+  },
+  "mapping": {
+    "request": {
+      "model": "gpt-5.4-mini-2026-03-17",
+      "reasoning": {
+        "effort": "high"
+      },
+      "max_output_tokens": 32000,
+      "store": false,
+      "text": {
+        "format": {
+          "type": "json_schema",
+          "name": "paper_mapping",
+          "strict": true,
+          "schema": {
+            "type": "object",
+            "properties": {
+              "mappings": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "phrase_id": {
+                      "type": "string"
+                    },
+                    "urbansound_labels": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "air_conditioner",
+                          "car_horn",
+                          "children_playing",
+                          "dog_bark",
+                          "drilling",
+                          "engine_idling",
+                          "gun_shot",
+                          "jackhammer",
+                          "siren",
+                          "street_music"
+                        ]
+                      },
+                      "maxItems": 10
+                    },
+                    "rationale": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "phrase_id",
+                    "urbansound_labels",
+                    "rationale"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 155,
+                "maxItems": 155
+              }
+            },
+            "required": [
+              "mappings"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    },
+    "receipt": {
+      "response_id": "resp_04b6588db33cee36016b02d8d59dd487d2a889bbfa0860048e",
+      "status": "completed",
+      "usage": {
+        "input_tokens": 8931,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cache_write_tokens_details": {
+            "ttl_12h_tokens": 0,
+            "ttl_30m_tokens": 0
+          },
+          "cached_tokens": 0
+        },
+        "output_tokens": 21092,
+        "output_tokens_details": {
+          "reasoning_tokens": 16700
+        },
+        "total_tokens": 30023
+      },
+      "request_sha256": "081ba0b303a05f2993e263658604e7a168b8f49157db52e86d2100bd28689526",
+      "response_sha256": "1417185960ecd37d2e57fcab6a64331a5a6f4016b61715c05b5967ef3e0c9c7c",
+      "returned_model": "gpt-5.4-mini-2026-03-17",
+      "finished_utc": "2026-11-22T11:59:39.082271+00:00"
+    }
+  }
+}

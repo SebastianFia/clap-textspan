@@ -1,0 +1,14 @@
+{
+  "clotho": {
+    "url": "https://zenodo.org/records/4783391/files/",
+    "archives": {
+      "development": "c8b05bc7acdb13895bb3c6a29608667e",
+      "validation": "7dba730be08bada48bd15dc4e668df59",
+      "evaluation": "4569624ccadf96223f19cb59fe4f849f"
+    }
+  },
+  "urbansound8k": {
+    "url": "https://zenodo.org/records/1203745/files/UrbanSound8K.tar.gz",
+    "md5": "9aa69802bbf37fb986f71ec1483a196e"
+  }
+}

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools==81.0.0", "wheel==0.48.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clap-textspan-paper"
+version = "1.0.0"
+description = "Reproduction of Finding Textual Explanations of CLAP Audio Encoder Attention Heads"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,2049 @@
+block,head,rank,phrase_id,text
+0,0,1,audio-v2-0184,Keys clinking on a ring.
+0,0,2,audio-v2-0116,A sandblaster hissing under pressure.
+0,0,3,audio-v2-0228,A glass pane tapping lightly.
+0,0,4,audio-v2-0654,A series of impacts with varying strength.
+0,0,5,audio-v2-0229,A metal tray ringing on the counter.
+0,0,6,audio-v2-0003,A horse snorting forcefully.
+0,0,7,audio-v2-0445,Maracas shaking rhythmically.
+0,0,8,audio-v2-0040,Branches creaking in the wind.
+0,0,9,audio-v2-0320,A narrow resonant whistle.
+0,0,10,audio-v2-0735,A sound partly blocked and muffled.
+0,0,11,audio-v2-0221,A lighter clicking open.
+0,0,12,audio-v2-0131,A cash machine whirring and clicking.
+0,0,13,audio-v2-0500,A grainy rough texture.
+0,0,14,audio-v2-0389,A voice speaking in fragments.
+0,0,15,audio-v2-0613,A staccato chain of discrete attacks.
+0,0,16,audio-v2-0355,An emotional cry from pain.
+0,0,17,audio-v2-0139,A helicopter blades chopping the air.
+0,0,18,audio-v2-0261,A descending glissando.
+0,0,19,audio-v2-0384,Overlapping laughter and speech.
+0,0,20,audio-v2-0444,A hand drum ensemble improvising.
+0,0,21,audio-v2-0224,A mailbox flap slamming.
+0,0,22,audio-v2-0007,Bees buzzing continuously.
+0,0,23,audio-v2-0371,A whispered conversation.
+0,0,24,audio-v2-0451,A harp glissando sweeping upward.
+0,0,25,audio-v2-0181,A pan sizzling on the stove.
+0,0,26,audio-v2-0731,Two similar sources sounding together.
+0,0,27,audio-v2-0028,Waves crashing onto shore.
+0,0,28,audio-v2-0001,A dog barking repeatedly.
+0,0,29,audio-v2-0085,A train clattering over tracks.
+0,0,30,audio-v2-0678,A brief accent on each note.
+0,0,31,audio-v2-0527,A scratchy intermittent rasp.
+0,0,32,audio-v2-0729,Speech over continuous machinery.
+0,1,1,audio-v2-0398,A close-miked whispery voice.
+0,1,2,audio-v2-0330,A person sighing slowly.
+0,1,3,audio-v2-0384,Overlapping laughter and speech.
+0,1,4,audio-v2-0379,A toddler babbling happily.
+0,1,5,audio-v2-0321,One person speaking clearly.
+0,1,6,audio-v2-0083,Tires squealing during a turn.
+0,1,7,audio-v2-0681,A hammer-like onset.
+0,1,8,audio-v2-0165,A glass clinking against another.
+0,1,9,audio-v2-0605,A beat grouped in threes.
+0,1,10,audio-v2-0001,A dog barking repeatedly.
+0,1,11,audio-v2-0273,A tone held at one pitch.
+0,1,12,audio-v2-0409,A trumpet playing a bright phrase.
+0,1,13,audio-v2-0249,A narrow band of high frequencies.
+0,1,14,audio-v2-0017,A bee swarm humming densely.
+0,1,15,audio-v2-0111,A conveyor belt rattling along.
+0,1,16,audio-v2-0232,A can opening with a hiss.
+0,1,17,audio-v2-0233,A plastic cup crinkling in a hand.
+0,1,18,audio-v2-0466,A choir with instruments underneath.
+0,1,19,audio-v2-0072,A fish splashing at the surface.
+0,1,20,audio-v2-0004,A pig grunting steadily.
+0,1,21,audio-v2-0501,A hollow resonant sound.
+0,1,22,audio-v2-0126,A fridge compressor kicking in.
+0,1,23,audio-v2-0048,A parrot squawking repeatedly.
+0,1,24,audio-v2-0216,A broom brushing across the floor.
+0,1,25,audio-v2-0089,A bicycle freewheel ticking rapidly.
+0,1,26,audio-v2-0244,A pitch sliding down then up.
+0,1,27,audio-v2-0030,A puddle splashing under footsteps.
+0,1,28,audio-v2-0588,A pair of sounds separated by silence.
+0,1,29,audio-v2-0464,A conga pattern with hand strikes.
+0,1,30,audio-v2-0150,A windshield wiper swishing back and forth.
+0,1,31,audio-v2-0238,A coat zipper snagging briefly.
+0,1,32,audio-v2-0734,A busy passage between quiet intervals.
+0,2,1,audio-v2-0772,A faucet running behind a conversation.
+0,2,2,audio-v2-0027,Water gurgling inside a cave.
+0,2,3,audio-v2-0364,A spoken phrase with an echo.
+0,2,4,audio-v2-0333,A person humming a melody.
+0,2,5,audio-v2-0203,A towel fluttering and snapping.
+0,2,6,audio-v2-0494,A sound with a shimmering overtone.
+0,2,7,audio-v2-0356,A gasp of surprise.
+0,2,8,audio-v2-0071,Seabirds crying above waves.
+0,2,9,audio-v2-0350,A woman speaking with crisp diction.
+0,2,10,audio-v2-0764,A source crossing the center line.
+0,2,11,audio-v2-0349,A man speaking in a deep voice.
+0,2,12,audio-v2-0450,A violin pizzicato pattern.
+0,2,13,audio-v2-0145,A pneumatic tool hammering rhythmically.
+0,2,14,audio-v2-0347,A group laughing together.
+0,2,15,audio-v2-0070,Sparrows twittering in a hedge.
+0,2,16,audio-v2-0656,A sound trailing into a faint vibration.
+0,2,17,audio-v2-0131,A cash machine whirring and clicking.
+0,2,18,audio-v2-0042,Cicadas buzzing loudly at dusk.
+0,2,19,audio-v2-0617,A rhythm with a delayed echo.
+0,2,20,audio-v2-0751,A call answered from a distance.
+0,2,21,audio-v2-0366,A clipped announcer voice.
+0,2,22,audio-v2-0737,A distant bell with long reverb.
+0,2,23,audio-v2-0771,A crowd murmur under a spoken announcement.
+0,2,24,audio-v2-0246,Several clashing pitched tones.
+0,2,25,audio-v2-0189,A jar lid opening with a pop.
+0,2,26,audio-v2-0553,A granular crackle and hiss.
+0,2,27,audio-v2-0741,A layered mix with one source buried.
+0,2,28,audio-v2-0223,A door latch clicking shut.
+0,2,29,audio-v2-0313,A smooth continuous tone.
+0,2,30,audio-v2-0410,A brass ensemble playing chords.
+0,2,31,audio-v2-0407,A flute playing a clear melody.
+0,2,32,audio-v2-0404,A bass guitar playing a riff.
+0,3,1,audio-v2-0140,A propeller aircraft droning overhead.
+0,3,2,audio-v2-0412,A hi-hat opening and closing.
+0,3,3,audio-v2-0724,A sound with a boxy room resonance.
+0,3,4,audio-v2-0373,A voice breaking on a note.
+0,3,5,audio-v2-0427,An organ holding a chord.
+0,3,6,audio-v2-0151,A scooter bell chiming briefly.
+0,3,7,audio-v2-0110,A typewriter hammering out letters.
+0,3,8,audio-v2-0417,A cello bowing long tones.
+0,3,9,audio-v2-0034,Thunder rumbling in the distance.
+0,3,10,audio-v2-0568,A sequence ending with a final hit.
+0,3,11,audio-v2-0542,A resonant wooden creak.
+0,3,12,audio-v2-0216,A broom brushing across the floor.
+0,3,13,audio-v2-0356,A gasp of surprise.
+0,3,14,audio-v2-0311,A pitch bending in small steps.
+0,3,15,audio-v2-0221,A lighter clicking open.
+0,3,16,audio-v2-0137,A truck reversing with beeps.
+0,3,17,audio-v2-0358,A soft snore.
+0,3,18,audio-v2-0455,A distorted electric guitar chord.
+0,3,19,audio-v2-0665,A sudden drop to silence.
+0,3,20,audio-v2-0502,A dense opaque wall of sound.
+0,3,21,audio-v2-0184,Keys clinking on a ring.
+0,3,22,audio-v2-0325,Rapidly spoken syllables.
+0,3,23,audio-v2-0413,Bongos playing alternating strokes.
+0,3,24,audio-v2-0070,Sparrows twittering in a hedge.
+0,3,25,audio-v2-0040,Branches creaking in the wind.
+0,3,26,audio-v2-0653,A recording with large volume contrasts.
+0,3,27,audio-v2-0605,A beat grouped in threes.
+0,3,28,audio-v2-0709,A long low-level tail.
+0,3,29,audio-v2-0460,A snare hit with a rimshot.
+0,3,30,audio-v2-0044,Ducks quacking near water.
+0,3,31,audio-v2-0106,A blender motor spinning quickly.
+0,3,32,audio-v2-0383,A crowd murmuring continuously.
+0,4,1,audio-v2-0232,A can opening with a hiss.
+0,4,2,audio-v2-0560,A faint scratchy whisper of sound.
+0,4,3,audio-v2-0517,A deep muffled thud.
+0,4,4,audio-v2-0630,A metronome-like steady beat.
+0,4,5,audio-v2-0444,A hand drum ensemble improvising.
+0,4,6,audio-v2-0578,A call with a long pause.
+0,4,7,audio-v2-0218,A sponge squeaking on glass.
+0,4,8,audio-v2-0539,A papery tearing texture.
+0,4,9,audio-v2-0705,A swelling burst of energy.
+0,4,10,audio-v2-0427,An organ holding a chord.
+0,4,11,audio-v2-0376,A dry cough.
+0,4,12,audio-v2-0012,A bat making rapid squeaks.
+0,4,13,audio-v2-0004,A pig grunting steadily.
+0,4,14,audio-v2-0052,Soil crumbling underfoot.
+0,4,15,audio-v2-0094,A hammer drill pounding repeatedly.
+0,4,16,audio-v2-0426,A full drum kit playing a groove.
+0,4,17,audio-v2-0589,A cascade of descending beats.
+0,4,18,audio-v2-0321,One person speaking clearly.
+0,4,19,audio-v2-0200,A curtain swishing aside.
+0,4,20,audio-v2-0341,A cheerful voice with bright tone.
+0,4,21,audio-v2-0407,A flute playing a clear melody.
+0,4,22,audio-v2-0168,Water pouring into a glass.
+0,4,23,audio-v2-0216,A broom brushing across the floor.
+0,4,24,audio-v2-0023,Heavy rain lashing the ground.
+0,4,25,audio-v2-0609,A short burst then a fade.
+0,4,26,audio-v2-0110,A typewriter hammering out letters.
+0,4,27,audio-v2-0734,A busy passage between quiet intervals.
+0,4,28,audio-v2-0476,A banjo roll pattern.
+0,4,29,audio-v2-0793,A sound centered between left and right.
+0,4,30,audio-v2-0419,A clarinet playing a mellow line.
+0,4,31,audio-v2-0378,A baby crying loudly.
+0,4,32,audio-v2-0613,A staccato chain of discrete attacks.
+0,5,1,audio-v2-0040,Branches creaking in the wind.
+0,5,2,audio-v2-0135,A gate motor whirring open.
+0,5,3,audio-v2-0774,A dry close-mic recording.
+0,5,4,audio-v2-0636,A sequence of taps with a trailing gap.
+0,5,5,audio-v2-0398,A close-miked whispery voice.
+0,5,6,audio-v2-0160,A motorboat engine puttering on water.
+0,5,7,audio-v2-0048,A parrot squawking repeatedly.
+0,5,8,audio-v2-0220,A match striking and flaring.
+0,5,9,audio-v2-0466,A choir with instruments underneath.
+0,5,10,audio-v2-0388,A singer holding a long note.
+0,5,11,audio-v2-0003,A horse snorting forcefully.
+0,5,12,audio-v2-0086,A subway rumbling underground.
+0,5,13,audio-v2-0238,A coat zipper snagging briefly.
+0,5,14,audio-v2-0424,A tambourine shaking in time.
+0,5,15,audio-v2-0250,A sound dominated by bass.
+0,5,16,audio-v2-0224,A mailbox flap slamming.
+0,5,17,audio-v2-0772,A faucet running behind a conversation.
+0,5,18,audio-v2-0099,An electronic device emitting beeps.
+0,5,19,audio-v2-0495,A watery plopping sound.
+0,5,20,audio-v2-0072,A fish splashing at the surface.
+0,5,21,audio-v2-0349,A man speaking in a deep voice.
+0,5,22,audio-v2-0113,A jackhammer pounding the pavement.
+0,5,23,audio-v2-0290,A warm rounded resonance.
+0,5,24,audio-v2-0464,A conga pattern with hand strikes.
+0,5,25,audio-v2-0336,A distorted voice over a radio.
+0,5,26,audio-v2-0457,A pedal steel guitar sliding.
+0,5,27,audio-v2-0192,Book pages flipping rapidly.
+0,5,28,audio-v2-0208,A spoon dropping into a cup.
+0,5,29,audio-v2-0152,A race car accelerating hard.
+0,5,30,audio-v2-0531,A sizzling crackle layer.
+0,5,31,audio-v2-0197,A staircase step groaning.
+0,5,32,audio-v2-0009,Crickets chirping at night.
+0,6,1,audio-v2-0607,A layered rhythm with overlapping cycles.
+0,6,2,audio-v2-0188,A bottle cap twisting off.
+0,6,3,audio-v2-0682,A breath-like onset.
+0,6,4,audio-v2-0524,A brittle high-frequency fizz.
+0,6,5,audio-v2-0588,A pair of sounds separated by silence.
+0,6,6,audio-v2-0417,A cello bowing long tones.
+0,6,7,audio-v2-0110,A typewriter hammering out letters.
+0,6,8,audio-v2-0600,A long gap between two hits.
+0,6,9,audio-v2-0224,A mailbox flap slamming.
+0,6,10,audio-v2-0307,A low throbbing drone.
+0,6,11,audio-v2-0151,A scooter bell chiming briefly.
+0,6,12,audio-v2-0714,A sequence of notes with equal loudness.
+0,6,13,audio-v2-0040,Branches creaking in the wind.
+0,6,14,audio-v2-0382,A crowd cheering briefly.
+0,6,15,audio-v2-0408,A saxophone playing a raspy phrase.
+0,6,16,audio-v2-0272,A stepped melody fragment.
+0,6,17,audio-v2-0348,A child calling out.
+0,6,18,audio-v2-0800,A layered scene with clear depth cues.
+0,6,19,audio-v2-0152,A race car accelerating hard.
+0,6,20,audio-v2-0412,A hi-hat opening and closing.
+0,6,21,audio-v2-0003,A horse snorting forcefully.
+0,6,22,audio-v2-0210,A tray rattling with dishes.
+0,6,23,audio-v2-0546,A smooth glasslike resonance.
+0,6,24,audio-v2-0212,Water running into a sink.
+0,6,25,audio-v2-0350,A woman speaking with crisp diction.
+0,6,26,audio-v2-0174,A ball bouncing repeatedly.
+0,6,27,audio-v2-0410,A brass ensemble playing chords.
+0,6,28,audio-v2-0086,A subway rumbling underground.
+0,6,29,audio-v2-0009,Crickets chirping at night.
+0,6,30,audio-v2-0001,A dog barking repeatedly.
+0,6,31,audio-v2-0678,A brief accent on each note.
+0,6,32,audio-v2-0609,A short burst then a fade.
+0,7,1,audio-v2-0549,A buzzing edge over tone.
+0,7,2,audio-v2-0165,A glass clinking against another.
+0,7,3,audio-v2-0428,A church bell ringing musically.
+0,7,4,audio-v2-0432,A fiddle playing a dance tune.
+0,7,5,audio-v2-0410,A brass ensemble playing chords.
+0,7,6,audio-v2-0103,A car door locking automatically.
+0,7,7,audio-v2-0597,A rolling pattern of taps.
+0,7,8,audio-v2-0184,Keys clinking on a ring.
+0,7,9,audio-v2-0224,A mailbox flap slamming.
+0,7,10,audio-v2-0419,A clarinet playing a mellow line.
+0,7,11,audio-v2-0414,A xylophone playing bright notes.
+0,7,12,audio-v2-0342,A tense voice speaking quickly.
+0,7,13,audio-v2-0358,A soft snore.
+0,7,14,audio-v2-0189,A jar lid opening with a pop.
+0,7,15,audio-v2-0427,An organ holding a chord.
+0,7,16,audio-v2-0215,A vacuum hose bumping furniture.
+0,7,17,audio-v2-0132,An escalator humming and rumbling.
+0,7,18,audio-v2-0088,A motor slowing to a stop.
+0,7,19,audio-v2-0197,A staircase step groaning.
+0,7,20,audio-v2-0040,Branches creaking in the wind.
+0,7,21,audio-v2-0330,A person sighing slowly.
+0,7,22,audio-v2-0333,A person humming a melody.
+0,7,23,audio-v2-0401,A piano playing single notes.
+0,7,24,audio-v2-0098,A printer feeding paper.
+0,7,25,audio-v2-0403,An acoustic guitar being strummed.
+0,7,26,audio-v2-0120,A train horn sounding twice.
+0,7,27,audio-v2-0691,A barely audible beginning.
+0,7,28,audio-v2-0154,A subway track rumbling by.
+0,7,29,audio-v2-0503,A transparent airy resonance.
+0,7,30,audio-v2-0698,A loud foreground burst.
+0,7,31,audio-v2-0347,A group laughing together.
+0,7,32,audio-v2-0181,A pan sizzling on the stove.
+0,8,1,audio-v2-0225,A screen door creaking closed.
+0,8,2,audio-v2-0796,A nearby footstep on a reverberant surface.
+0,8,3,audio-v2-0459,A drum brush swishing softly.
+0,8,4,audio-v2-0001,A dog barking repeatedly.
+0,8,5,audio-v2-0346,A laugh turning into a cough.
+0,8,6,audio-v2-0309,A soft pulse of resonance.
+0,8,7,audio-v2-0327,A person laughing openly.
+0,8,8,audio-v2-0164,Dishes clattering in a sink.
+0,8,9,audio-v2-0004,A pig grunting steadily.
+0,8,10,audio-v2-0111,A conveyor belt rattling along.
+0,8,11,audio-v2-0665,A sudden drop to silence.
+0,8,12,audio-v2-0030,A puddle splashing under footsteps.
+0,8,13,audio-v2-0196,A wooden board creaking under pressure.
+0,8,14,audio-v2-0002,A cat meowing in short bursts.
+0,8,15,audio-v2-0189,A jar lid opening with a pop.
+0,8,16,audio-v2-0093,A saw cutting through boards.
+0,8,17,audio-v2-0017,A bee swarm humming densely.
+0,8,18,audio-v2-0390,A call-and-response chant.
+0,8,19,audio-v2-0464,A conga pattern with hand strikes.
+0,8,20,audio-v2-0703,A continuous sound with no break.
+0,8,21,audio-v2-0682,A breath-like onset.
+0,8,22,audio-v2-0174,A ball bouncing repeatedly.
+0,8,23,audio-v2-0478,A glockenspiel chiming delicately.
+0,8,24,audio-v2-0401,A piano playing single notes.
+0,8,25,audio-v2-0003,A horse snorting forcefully.
+0,8,26,audio-v2-0360,A kiss sound from pursed lips.
+0,8,27,audio-v2-0430,A banjo picking quick notes.
+0,8,28,audio-v2-0693,A strong attack and quick mute.
+0,8,29,audio-v2-0106,A blender motor spinning quickly.
+0,8,30,audio-v2-0452,A saxophone solo with bends.
+0,8,31,audio-v2-0553,A granular crackle and hiss.
+0,8,32,audio-v2-0379,A toddler babbling happily.
+0,9,1,audio-v2-0175,A clock ticking evenly.
+0,9,2,audio-v2-0515,A rough sandpapery sound.
+0,9,3,audio-v2-0588,A pair of sounds separated by silence.
+0,9,4,audio-v2-0002,A cat meowing in short bursts.
+0,9,5,audio-v2-0772,A faucet running behind a conversation.
+0,9,6,audio-v2-0389,A voice speaking in fragments.
+0,9,7,audio-v2-0150,A windshield wiper swishing back and forth.
+0,9,8,audio-v2-0478,A glockenspiel chiming delicately.
+0,9,9,audio-v2-0451,A harp glissando sweeping upward.
+0,9,10,audio-v2-0240,A curtain rod clacking against brackets.
+0,9,11,audio-v2-0562,A sequence of brief sounds.
+0,9,12,audio-v2-0281,A repeating pitch loop.
+0,9,13,audio-v2-0125,A microwave fan whirring loudly.
+0,9,14,audio-v2-0354,A staccato burst of words.
+0,9,15,audio-v2-0159,A chainsaw revving then cutting.
+0,9,16,audio-v2-0104,A diesel engine coughing into life.
+0,9,17,audio-v2-0178,A spoon scraping a bowl.
+0,9,18,audio-v2-0027,Water gurgling inside a cave.
+0,9,19,audio-v2-0205,A plastic container snapping shut.
+0,9,20,audio-v2-0157,A smoke alarm chirping repeatedly.
+0,9,21,audio-v2-0320,A narrow resonant whistle.
+0,9,22,audio-v2-0044,Ducks quacking near water.
+0,9,23,audio-v2-0800,A layered scene with clear depth cues.
+0,9,24,audio-v2-0504,A buzzing textured noise.
+0,9,25,audio-v2-0464,A conga pattern with hand strikes.
+0,9,26,audio-v2-0009,Crickets chirping at night.
+0,9,27,audio-v2-0051,Pebbles rolling downhill.
+0,9,28,audio-v2-0428,A church bell ringing musically.
+0,9,29,audio-v2-0154,A subway track rumbling by.
+0,9,30,audio-v2-0662,A repeated diminuendo.
+0,9,31,audio-v2-0460,A snare hit with a rimshot.
+0,9,32,audio-v2-0091,A drill boring into wood.
+0,10,1,audio-v2-0333,A person humming a melody.
+0,10,2,audio-v2-0297,A detuned interval beating slowly.
+0,10,3,audio-v2-0404,A bass guitar playing a riff.
+0,10,4,audio-v2-0692,A booming onset with long decay.
+0,10,5,audio-v2-0119,A subway door closing with a chime.
+0,10,6,audio-v2-0056,Sand scraping in the wind.
+0,10,7,audio-v2-0224,A mailbox flap slamming.
+0,10,8,audio-v2-0409,A trumpet playing a bright phrase.
+0,10,9,audio-v2-0588,A pair of sounds separated by silence.
+0,10,10,audio-v2-0332,A person swallowing audibly.
+0,10,11,audio-v2-0016,A donkey braying loudly.
+0,10,12,audio-v2-0589,A cascade of descending beats.
+0,10,13,audio-v2-0429,A ukulele strumming lightly.
+0,10,14,audio-v2-0490,A ceramic sound clinking sharply.
+0,10,15,audio-v2-0363,A chant repeated by a group.
+0,10,16,audio-v2-0350,A woman speaking with crisp diction.
+0,10,17,audio-v2-0126,A fridge compressor kicking in.
+0,10,18,audio-v2-0398,A close-miked whispery voice.
+0,10,19,audio-v2-0027,Water gurgling inside a cave.
+0,10,20,audio-v2-0229,A metal tray ringing on the counter.
+0,10,21,audio-v2-0401,A piano playing single notes.
+0,10,22,audio-v2-0070,Sparrows twittering in a hedge.
+0,10,23,audio-v2-0325,Rapidly spoken syllables.
+0,10,24,audio-v2-0301,A steady pitch with subtle warble.
+0,10,25,audio-v2-0741,A layered mix with one source buried.
+0,10,26,audio-v2-0082,A motorcycle engine rattling loudly.
+0,10,27,audio-v2-0110,A typewriter hammering out letters.
+0,10,28,audio-v2-0608,A pattern alternating loud and soft.
+0,10,29,audio-v2-0043,An owl hooting at night.
+0,10,30,audio-v2-0152,A race car accelerating hard.
+0,10,31,audio-v2-0232,A can opening with a hiss.
+0,10,32,audio-v2-0360,A kiss sound from pursed lips.
+0,11,1,audio-v2-0730,Footsteps over a crowd murmur.
+0,11,2,audio-v2-0082,A motorcycle engine rattling loudly.
+0,11,3,audio-v2-0185,A metal chair scraping the floor.
+0,11,4,audio-v2-0485,A breathy airy sound.
+0,11,5,audio-v2-0539,A papery tearing texture.
+0,11,6,audio-v2-0630,A metronome-like steady beat.
+0,11,7,audio-v2-0581,A stuttering sequence of taps.
+0,11,8,audio-v2-0204,A laundry basket rattling.
+0,11,9,audio-v2-0166,A kettle whistling loudly.
+0,11,10,audio-v2-0360,A kiss sound from pursed lips.
+0,11,11,audio-v2-0354,A staccato burst of words.
+0,11,12,audio-v2-0213,A bucket sloshing with water.
+0,11,13,audio-v2-0445,Maracas shaking rhythmically.
+0,11,14,audio-v2-0363,A chant repeated by a group.
+0,11,15,audio-v2-0428,A church bell ringing musically.
+0,11,16,audio-v2-0409,A trumpet playing a bright phrase.
+0,11,17,audio-v2-0088,A motor slowing to a stop.
+0,11,18,audio-v2-0741,A layered mix with one source buried.
+0,11,19,audio-v2-0187,A box thudding onto the table.
+0,11,20,audio-v2-0021,Rain pattering on leaves.
+0,11,21,audio-v2-0394,A strained voice under pressure.
+0,11,22,audio-v2-0071,Seabirds crying above waves.
+0,11,23,audio-v2-0232,A can opening with a hiss.
+0,11,24,audio-v2-0229,A metal tray ringing on the counter.
+0,11,25,audio-v2-0131,A cash machine whirring and clicking.
+0,11,26,audio-v2-0454,A guitar feedback singing.
+0,11,27,audio-v2-0579,A pattern of alternating short and long events.
+0,11,28,audio-v2-0767,A background hum under foreground speech.
+0,11,29,audio-v2-0164,Dishes clattering in a sink.
+0,11,30,audio-v2-0101,A forklift beeping while reversing.
+0,11,31,audio-v2-0004,A pig grunting steadily.
+0,11,32,audio-v2-0723,A voice echoing in a large room.
+0,12,1,audio-v2-0665,A sudden drop to silence.
+0,12,2,audio-v2-0121,A scooter zipping past quickly.
+0,12,3,audio-v2-0230,A chopping knife striking repeatedly.
+0,12,4,audio-v2-0327,A person laughing openly.
+0,12,5,audio-v2-0602,A sequence of three separated phrases.
+0,12,6,audio-v2-0270,A dark low register.
+0,12,7,audio-v2-0421,A tuba sustaining a low note.
+0,12,8,audio-v2-0362,Teeth chattering from cold.
+0,12,9,audio-v2-0237,A suitcase zipper tugging closed.
+0,12,10,audio-v2-0329,A baby babbling syllables.
+0,12,11,audio-v2-0018,A mouse squeaking faintly.
+0,12,12,audio-v2-0039,Leaves rustling softly in a breeze.
+0,12,13,audio-v2-0168,Water pouring into a glass.
+0,12,14,audio-v2-0555,A dense clustered noise.
+0,12,15,audio-v2-0478,A glockenspiel chiming delicately.
+0,12,16,audio-v2-0578,A call with a long pause.
+0,12,17,audio-v2-0469,A brass fanfare with heavy accents.
+0,12,18,audio-v2-0332,A person swallowing audibly.
+0,12,19,audio-v2-0071,Seabirds crying above waves.
+0,12,20,audio-v2-0103,A car door locking automatically.
+0,12,21,audio-v2-0116,A sandblaster hissing under pressure.
+0,12,22,audio-v2-0009,Crickets chirping at night.
+0,12,23,audio-v2-0146,A shipping container rattling on impact.
+0,12,24,audio-v2-0450,A violin pizzicato pattern.
+0,12,25,audio-v2-0404,A bass guitar playing a riff.
+0,12,26,audio-v2-0385,A voice speaking through clenched teeth.
+0,12,27,audio-v2-0462,A cymbal crash blooming.
+0,12,28,audio-v2-0771,A crowd murmur under a spoken announcement.
+0,12,29,audio-v2-0373,A voice breaking on a note.
+0,12,30,audio-v2-0678,A brief accent on each note.
+0,12,31,audio-v2-0350,A woman speaking with crisp diction.
+0,12,32,audio-v2-0160,A motorboat engine puttering on water.
+0,13,1,audio-v2-0116,A sandblaster hissing under pressure.
+0,13,2,audio-v2-0092,A grinder scraping metal.
+0,13,3,audio-v2-0131,A cash machine whirring and clicking.
+0,13,4,audio-v2-0132,An escalator humming and rumbling.
+0,13,5,audio-v2-0164,Dishes clattering in a sink.
+0,13,6,audio-v2-0074,A caterpillar rustling through grass.
+0,13,7,audio-v2-0615,A pattern of distant repeating knocks.
+0,13,8,audio-v2-0083,Tires squealing during a turn.
+0,13,9,audio-v2-0128,A turntable needle crackling slightly.
+0,13,10,audio-v2-0044,Ducks quacking near water.
+0,13,11,audio-v2-0567,A sound starting and stopping repeatedly.
+0,13,12,audio-v2-0059,A bee buzzing near flowers.
+0,13,13,audio-v2-0004,A pig grunting steadily.
+0,13,14,audio-v2-0568,A sequence ending with a final hit.
+0,13,15,audio-v2-0106,A blender motor spinning quickly.
+0,13,16,audio-v2-0054,Snow crunching beneath boots.
+0,13,17,audio-v2-0555,A dense clustered noise.
+0,13,18,audio-v2-0546,A smooth glasslike resonance.
+0,13,19,audio-v2-0153,A truck suspension clunking over bumps.
+0,13,20,audio-v2-0606,A beat grouped in fours.
+0,13,21,audio-v2-0382,A crowd cheering briefly.
+0,13,22,audio-v2-0188,A bottle cap twisting off.
+0,13,23,audio-v2-0359,A loud yawn.
+0,13,24,audio-v2-0793,A sound centered between left and right.
+0,13,25,audio-v2-0335,A person whistling a tune.
+0,13,26,audio-v2-0339,A whisper spoken close to the mic.
+0,13,27,audio-v2-0734,A busy passage between quiet intervals.
+0,13,28,audio-v2-0350,A woman speaking with crisp diction.
+0,13,29,audio-v2-0279,A piercing upper partial.
+0,13,30,audio-v2-0348,A child calling out.
+0,13,31,audio-v2-0464,A conga pattern with hand strikes.
+0,13,32,audio-v2-0137,A truck reversing with beeps.
+0,14,1,audio-v2-0096,A pump throbbing at intervals.
+0,14,2,audio-v2-0044,Ducks quacking near water.
+0,14,3,audio-v2-0348,A child calling out.
+0,14,4,audio-v2-0001,A dog barking repeatedly.
+0,14,5,audio-v2-0555,A dense clustered noise.
+0,14,6,audio-v2-0002,A cat meowing in short bursts.
+0,14,7,audio-v2-0772,A faucet running behind a conversation.
+0,14,8,audio-v2-0434,A flute trill fluttering rapidly.
+0,14,9,audio-v2-0010,A crow cawing sharply.
+0,14,10,audio-v2-0160,A motorboat engine puttering on water.
+0,14,11,audio-v2-0356,A gasp of surprise.
+0,14,12,audio-v2-0324,A voice with a gravelly quality.
+0,14,13,audio-v2-0410,A brass ensemble playing chords.
+0,14,14,audio-v2-0786,A close impact with immediate reflections.
+0,14,15,audio-v2-0109,A cash register clacking open.
+0,14,16,audio-v2-0450,A violin pizzicato pattern.
+0,14,17,audio-v2-0713,A high intensity throughout.
+0,14,18,audio-v2-0226,A blind cord pulling taut.
+0,14,19,audio-v2-0478,A glockenspiel chiming delicately.
+0,14,20,audio-v2-0374,A nasal laugh.
+0,14,21,audio-v2-0600,A long gap between two hits.
+0,14,22,audio-v2-0412,A hi-hat opening and closing.
+0,14,23,audio-v2-0589,A cascade of descending beats.
+0,14,24,audio-v2-0201,A blanket rustling in bed.
+0,14,25,audio-v2-0408,A saxophone playing a raspy phrase.
+0,14,26,audio-v2-0326,Speech with clear consonants.
+0,14,27,audio-v2-0210,A tray rattling with dishes.
+0,14,28,audio-v2-0731,Two similar sources sounding together.
+0,14,29,audio-v2-0289,A high glassy resonance.
+0,14,30,audio-v2-0070,Sparrows twittering in a hedge.
+0,14,31,audio-v2-0402,An electric piano playing softly.
+0,14,32,audio-v2-0723,A voice echoing in a large room.
+0,15,1,audio-v2-0770,A car passing while wind remains.
+0,15,2,audio-v2-0107,A vacuum cleaner running steadily.
+0,15,3,audio-v2-0086,A subway rumbling underground.
+0,15,4,audio-v2-0101,A forklift beeping while reversing.
+0,15,5,audio-v2-0035,Thunder cracking sharply overhead.
+0,15,6,audio-v2-0195,A cardboard box folding.
+0,15,7,audio-v2-0381,A person muttering to themselves.
+0,15,8,audio-v2-0279,A piercing upper partial.
+0,15,9,audio-v2-0433,A horn section stabbing accents.
+0,15,10,audio-v2-0679,A soft attack and abrupt stop.
+0,15,11,audio-v2-0220,A match striking and flaring.
+0,15,12,audio-v2-0585,A back-and-forth alternating rhythm.
+0,15,13,audio-v2-0132,An escalator humming and rumbling.
+0,15,14,audio-v2-0103,A car door locking automatically.
+0,15,15,audio-v2-0375,A wet cough.
+0,15,16,audio-v2-0042,Cicadas buzzing loudly at dusk.
+0,15,17,audio-v2-0673,A loud midsection framed by quiet.
+0,15,18,audio-v2-0216,A broom brushing across the floor.
+0,15,19,audio-v2-0109,A cash register clacking open.
+0,15,20,audio-v2-0113,A jackhammer pounding the pavement.
+0,15,21,audio-v2-0339,A whisper spoken close to the mic.
+0,15,22,audio-v2-0531,A sizzling crackle layer.
+0,15,23,audio-v2-0233,A plastic cup crinkling in a hand.
+0,15,24,audio-v2-0478,A glockenspiel chiming delicately.
+0,15,25,audio-v2-0348,A child calling out.
+0,15,26,audio-v2-0405,A violin playing a sustained note.
+0,15,27,audio-v2-0738,A close voice with little room sound.
+0,15,28,audio-v2-0212,Water running into a sink.
+0,15,29,audio-v2-0071,Seabirds crying above waves.
+0,15,30,audio-v2-0054,Snow crunching beneath boots.
+0,15,31,audio-v2-0210,A tray rattling with dishes.
+0,15,32,audio-v2-0012,A bat making rapid squeaks.
+0,16,1,audio-v2-0335,A person whistling a tune.
+0,16,2,audio-v2-0253,An ascending siren wail.
+0,16,3,audio-v2-0167,A microwave timer beeping.
+0,16,4,audio-v2-0008,A frog croaking repeatedly.
+0,16,5,audio-v2-0083,Tires squealing during a turn.
+0,16,6,audio-v2-0495,A watery plopping sound.
+0,16,7,audio-v2-0518,A hissy white-noise band.
+0,16,8,audio-v2-0303,A tone arcing over a wide range.
+0,16,9,audio-v2-0065,A campfire burning with pops.
+0,16,10,audio-v2-0618,A series of hits building to a climax.
+0,16,11,audio-v2-0137,A truck reversing with beeps.
+0,16,12,audio-v2-0160,A motorboat engine puttering on water.
+0,16,13,audio-v2-0469,A brass fanfare with heavy accents.
+0,16,14,audio-v2-0376,A dry cough.
+0,16,15,audio-v2-0362,Teeth chattering from cold.
+0,16,16,audio-v2-0014,A rooster crowing at dawn.
+0,16,17,audio-v2-0151,A scooter bell chiming briefly.
+0,16,18,audio-v2-0308,A sharp tonal spike.
+0,16,19,audio-v2-0399,A rounded vowel sound.
+0,16,20,audio-v2-0195,A cardboard box folding.
+0,16,21,audio-v2-0266,A clear single-frequency tone.
+0,16,22,audio-v2-0348,A child calling out.
+0,16,23,audio-v2-0432,A fiddle playing a dance tune.
+0,16,24,audio-v2-0390,A call-and-response chant.
+0,16,25,audio-v2-0289,A high glassy resonance.
+0,16,26,audio-v2-0133,A lift motor rising smoothly.
+0,16,27,audio-v2-0238,A coat zipper snagging briefly.
+0,16,28,audio-v2-0734,A busy passage between quiet intervals.
+0,16,29,audio-v2-0330,A person sighing slowly.
+0,16,30,audio-v2-0460,A snare hit with a rimshot.
+0,16,31,audio-v2-0383,A crowd murmuring continuously.
+0,16,32,audio-v2-0019,A seal barking from afar.
+0,17,1,audio-v2-0168,Water pouring into a glass.
+0,17,2,audio-v2-0160,A motorboat engine puttering on water.
+0,17,3,audio-v2-0070,Sparrows twittering in a hedge.
+0,17,4,audio-v2-0194,A crumpled bag crunching.
+0,17,5,audio-v2-0169,A shower spraying water.
+0,17,6,audio-v2-0131,A cash machine whirring and clicking.
+0,17,7,audio-v2-0266,A clear single-frequency tone.
+0,17,8,audio-v2-0462,A cymbal crash blooming.
+0,17,9,audio-v2-0232,A can opening with a hiss.
+0,17,10,audio-v2-0030,A puddle splashing under footsteps.
+0,17,11,audio-v2-0128,A turntable needle crackling slightly.
+0,17,12,audio-v2-0184,Keys clinking on a ring.
+0,17,13,audio-v2-0092,A grinder scraping metal.
+0,17,14,audio-v2-0310,A resonant chord fragment.
+0,17,15,audio-v2-0051,Pebbles rolling downhill.
+0,17,16,audio-v2-0365,A hoarse voice calling.
+0,17,17,audio-v2-0430,A banjo picking quick notes.
+0,17,18,audio-v2-0620,A repeated pulse ending abruptly.
+0,17,19,audio-v2-0102,A bus braking with a hiss.
+0,17,20,audio-v2-0410,A brass ensemble playing chords.
+0,17,21,audio-v2-0186,A chair creaking under weight.
+0,17,22,audio-v2-0781,A thick ambient bed around a clear source.
+0,17,23,audio-v2-0605,A beat grouped in threes.
+0,17,24,audio-v2-0078,A camel grunting in the distance.
+0,17,25,audio-v2-0382,A crowd cheering briefly.
+0,17,26,audio-v2-0302,A tone flickering between two notes.
+0,17,27,audio-v2-0192,Book pages flipping rapidly.
+0,17,28,audio-v2-0049,Grasshoppers chirring in the field.
+0,17,29,audio-v2-0071,Seabirds crying above waves.
+0,17,30,audio-v2-0164,Dishes clattering in a sink.
+0,17,31,audio-v2-0713,A high intensity throughout.
+0,17,32,audio-v2-0187,A box thudding onto the table.
+0,18,1,audio-v2-0354,A staccato burst of words.
+0,18,2,audio-v2-0769,A distant train under a nearer voice.
+0,18,3,audio-v2-0496,A low grinding friction sound.
+0,18,4,audio-v2-0131,A cash machine whirring and clicking.
+0,18,5,audio-v2-0174,A ball bouncing repeatedly.
+0,18,6,audio-v2-0634,A jerky series of starts.
+0,18,7,audio-v2-0107,A vacuum cleaner running steadily.
+0,18,8,audio-v2-0674,A quiet center with louder edges.
+0,18,9,audio-v2-0047,A monkey screeching sharply.
+0,18,10,audio-v2-0394,A strained voice under pressure.
+0,18,11,audio-v2-0232,A can opening with a hiss.
+0,18,12,audio-v2-0558,A shimmering noisy halo.
+0,18,13,audio-v2-0358,A soft snore.
+0,18,14,audio-v2-0730,Footsteps over a crowd murmur.
+0,18,15,audio-v2-0218,A sponge squeaking on glass.
+0,18,16,audio-v2-0306,A faint high-pitched line.
+0,18,17,audio-v2-0013,A sheep bleating softly.
+0,18,18,audio-v2-0180,A knife tapping against a cutting board.
+0,18,19,audio-v2-0202,A sheet being shaken out.
+0,18,20,audio-v2-0466,A choir with instruments underneath.
+0,18,21,audio-v2-0137,A truck reversing with beeps.
+0,18,22,audio-v2-0546,A smooth glasslike resonance.
+0,18,23,audio-v2-0462,A cymbal crash blooming.
+0,18,24,audio-v2-0404,A bass guitar playing a riff.
+0,18,25,audio-v2-0343,A nasal voice speaking.
+0,18,26,audio-v2-0384,Overlapping laughter and speech.
+0,18,27,audio-v2-0151,A scooter bell chiming briefly.
+0,18,28,audio-v2-0453,A trumpet fanfare burst.
+0,18,29,audio-v2-0057,A branch snapping suddenly.
+0,18,30,audio-v2-0470,A keyboard rhythm with bright attacks.
+0,18,31,audio-v2-0370,A shout fading into distance.
+0,18,32,audio-v2-0025,A stream babbling over stones.
+0,19,1,audio-v2-0158,A lawn trimmer buzzing near grass.
+0,19,2,audio-v2-0594,A loop of four steady pulses.
+0,19,3,audio-v2-0451,A harp glissando sweeping upward.
+0,19,4,audio-v2-0103,A car door locking automatically.
+0,19,5,audio-v2-0226,A blind cord pulling taut.
+0,19,6,audio-v2-0104,A diesel engine coughing into life.
+0,19,7,audio-v2-0692,A booming onset with long decay.
+0,19,8,audio-v2-0068,A log settling with a creak.
+0,19,9,audio-v2-0032,Wind whistling around corners.
+0,19,10,audio-v2-0460,A snare hit with a rimshot.
+0,19,11,audio-v2-0524,A brittle high-frequency fizz.
+0,19,12,audio-v2-0151,A scooter bell chiming briefly.
+0,19,13,audio-v2-0174,A ball bouncing repeatedly.
+0,19,14,audio-v2-0152,A race car accelerating hard.
+0,19,15,audio-v2-0202,A sheet being shaken out.
+0,19,16,audio-v2-0003,A horse snorting forcefully.
+0,19,17,audio-v2-0021,Rain pattering on leaves.
+0,19,18,audio-v2-0132,An escalator humming and rumbling.
+0,19,19,audio-v2-0390,A call-and-response chant.
+0,19,20,audio-v2-0272,A stepped melody fragment.
+0,19,21,audio-v2-0107,A vacuum cleaner running steadily.
+0,19,22,audio-v2-0328,A person sobbing audibly.
+0,19,23,audio-v2-0395,A relaxed conversational tone.
+0,19,24,audio-v2-0662,A repeated diminuendo.
+0,19,25,audio-v2-0009,Crickets chirping at night.
+0,19,26,audio-v2-0741,A layered mix with one source buried.
+0,19,27,audio-v2-0588,A pair of sounds separated by silence.
+0,19,28,audio-v2-0429,A ukulele strumming lightly.
+0,19,29,audio-v2-0233,A plastic cup crinkling in a hand.
+0,19,30,audio-v2-0432,A fiddle playing a dance tune.
+0,19,31,audio-v2-0184,Keys clinking on a ring.
+0,19,32,audio-v2-0232,A can opening with a hiss.
+0,20,1,audio-v2-0266,A clear single-frequency tone.
+0,20,2,audio-v2-0253,An ascending siren wail.
+0,20,3,audio-v2-0733,Several layers dropping out one by one.
+0,20,4,audio-v2-0662,A repeated diminuendo.
+0,20,5,audio-v2-0359,A loud yawn.
+0,20,6,audio-v2-0153,A truck suspension clunking over bumps.
+0,20,7,audio-v2-0397,A noisy call from far away.
+0,20,8,audio-v2-0004,A pig grunting steadily.
+0,20,9,audio-v2-0478,A glockenspiel chiming delicately.
+0,20,10,audio-v2-0427,An organ holding a chord.
+0,20,11,audio-v2-0188,A bottle cap twisting off.
+0,20,12,audio-v2-0346,A laugh turning into a cough.
+0,20,13,audio-v2-0164,Dishes clattering in a sink.
+0,20,14,audio-v2-0103,A car door locking automatically.
+0,20,15,audio-v2-0039,Leaves rustling softly in a breeze.
+0,20,16,audio-v2-0504,A buzzing textured noise.
+0,20,17,audio-v2-0445,Maracas shaking rhythmically.
+0,20,18,audio-v2-0420,A trombone sliding between notes.
+0,20,19,audio-v2-0546,A smooth glasslike resonance.
+0,20,20,audio-v2-0690,A sudden loudness jump.
+0,20,21,audio-v2-0333,A person humming a melody.
+0,20,22,audio-v2-0233,A plastic cup crinkling in a hand.
+0,20,23,audio-v2-0771,A crowd murmur under a spoken announcement.
+0,20,24,audio-v2-0102,A bus braking with a hiss.
+0,20,25,audio-v2-0072,A fish splashing at the surface.
+0,20,26,audio-v2-0607,A layered rhythm with overlapping cycles.
+0,20,27,audio-v2-0106,A blender motor spinning quickly.
+0,20,28,audio-v2-0540,A soft cushiony thump.
+0,20,29,audio-v2-0360,A kiss sound from pursed lips.
+0,20,30,audio-v2-0134,A garage door rolling upward.
+0,20,31,audio-v2-0001,A dog barking repeatedly.
+0,20,32,audio-v2-0026,Water dripping into a bucket.
+0,21,1,audio-v2-0739,A faraway sound fading through the air.
+0,21,2,audio-v2-0078,A camel grunting in the distance.
+0,21,3,audio-v2-0483,A bright metallic rattle.
+0,21,4,audio-v2-0238,A coat zipper snagging briefly.
+0,21,5,audio-v2-0133,A lift motor rising smoothly.
+0,21,6,audio-v2-0361,Tongue clicking against the palate.
+0,21,7,audio-v2-0430,A banjo picking quick notes.
+0,21,8,audio-v2-0580,A pulse train with equal spacing.
+0,21,9,audio-v2-0042,Cicadas buzzing loudly at dusk.
+0,21,10,audio-v2-0553,A granular crackle and hiss.
+0,21,11,audio-v2-0349,A man speaking in a deep voice.
+0,21,12,audio-v2-0272,A stepped melody fragment.
+0,21,13,audio-v2-0232,A can opening with a hiss.
+0,21,14,audio-v2-0605,A beat grouped in threes.
+0,21,15,audio-v2-0478,A glockenspiel chiming delicately.
+0,21,16,audio-v2-0169,A shower spraying water.
+0,21,17,audio-v2-0588,A pair of sounds separated by silence.
+0,21,18,audio-v2-0351,A voice murmuring under breath.
+0,21,19,audio-v2-0127,A record player spinning steadily.
+0,21,20,audio-v2-0051,Pebbles rolling downhill.
+0,21,21,audio-v2-0743,A wet reverberant sound.
+0,21,22,audio-v2-0174,A ball bouncing repeatedly.
+0,21,23,audio-v2-0002,A cat meowing in short bursts.
+0,21,24,audio-v2-0057,A branch snapping suddenly.
+0,21,25,audio-v2-0122,A car horn honking sharply.
+0,21,26,audio-v2-0093,A saw cutting through boards.
+0,21,27,audio-v2-0557,A rolling rumbling texture.
+0,21,28,audio-v2-0072,A fish splashing at the surface.
+0,21,29,audio-v2-0048,A parrot squawking repeatedly.
+0,21,30,audio-v2-0723,A voice echoing in a large room.
+0,21,31,audio-v2-0271,A pair of alternating pitches.
+0,21,32,audio-v2-0494,A sound with a shimmering overtone.
+0,22,1,audio-v2-0094,A hammer drill pounding repeatedly.
+0,22,2,audio-v2-0170,Paper tearing in a strip.
+0,22,3,audio-v2-0562,A sequence of brief sounds.
+0,22,4,audio-v2-0678,A brief accent on each note.
+0,22,5,audio-v2-0030,A puddle splashing under footsteps.
+0,22,6,audio-v2-0008,A frog croaking repeatedly.
+0,22,7,audio-v2-0329,A baby babbling syllables.
+0,22,8,audio-v2-0327,A person laughing openly.
+0,22,9,audio-v2-0184,Keys clinking on a ring.
+0,22,10,audio-v2-0560,A faint scratchy whisper of sound.
+0,22,11,audio-v2-0384,Overlapping laughter and speech.
+0,22,12,audio-v2-0003,A horse snorting forcefully.
+0,22,13,audio-v2-0354,A staccato burst of words.
+0,22,14,audio-v2-0697,A soft background bed.
+0,22,15,audio-v2-0069,A flock of birds chirping.
+0,22,16,audio-v2-0603,A stop-start pattern.
+0,22,17,audio-v2-0233,A plastic cup crinkling in a hand.
+0,22,18,audio-v2-0366,A clipped announcer voice.
+0,22,19,audio-v2-0780,A sound partly swallowed by reverberation.
+0,22,20,audio-v2-0409,A trumpet playing a bright phrase.
+0,22,21,audio-v2-0223,A door latch clicking shut.
+0,22,22,audio-v2-0028,Waves crashing onto shore.
+0,22,23,audio-v2-0461,A tom-tom rolling across drums.
+0,22,24,audio-v2-0232,A can opening with a hiss.
+0,22,25,audio-v2-0154,A subway track rumbling by.
+0,22,26,audio-v2-0465,A flute and guitar playing together.
+0,22,27,audio-v2-0212,Water running into a sink.
+0,22,28,audio-v2-0529,A bright glistening sound.
+0,22,29,audio-v2-0520,A pulsing throbbing texture.
+0,22,30,audio-v2-0389,A voice speaking in fragments.
+0,22,31,audio-v2-0087,A boat motor puttering softly.
+0,22,32,audio-v2-0588,A pair of sounds separated by silence.
+0,23,1,audio-v2-0044,Ducks quacking near water.
+0,23,2,audio-v2-0102,A bus braking with a hiss.
+0,23,3,audio-v2-0350,A woman speaking with crisp diction.
+0,23,4,audio-v2-0109,A cash register clacking open.
+0,23,5,audio-v2-0169,A shower spraying water.
+0,23,6,audio-v2-0093,A saw cutting through boards.
+0,23,7,audio-v2-0683,A clipped ending.
+0,23,8,audio-v2-0771,A crowd murmur under a spoken announcement.
+0,23,9,audio-v2-0011,A squirrel chattering rapidly.
+0,23,10,audio-v2-0325,Rapidly spoken syllables.
+0,23,11,audio-v2-0373,A voice breaking on a note.
+0,23,12,audio-v2-0759,A sound outside in open air.
+0,23,13,audio-v2-0097,A ventilation fan humming nonstop.
+0,23,14,audio-v2-0021,Rain pattering on leaves.
+0,23,15,audio-v2-0237,A suitcase zipper tugging closed.
+0,23,16,audio-v2-0072,A fish splashing at the surface.
+0,23,17,audio-v2-0020,A lion roaring once.
+0,23,18,audio-v2-0330,A person sighing slowly.
+0,23,19,audio-v2-0310,A resonant chord fragment.
+0,23,20,audio-v2-0766,A source masked then revealed.
+0,23,21,audio-v2-0220,A match striking and flaring.
+0,23,22,audio-v2-0159,A chainsaw revving then cutting.
+0,23,23,audio-v2-0244,A pitch sliding down then up.
+0,23,24,audio-v2-0140,A propeller aircraft droning overhead.
+0,23,25,audio-v2-0042,Cicadas buzzing loudly at dusk.
+0,23,26,audio-v2-0434,A flute trill fluttering rapidly.
+0,23,27,audio-v2-0562,A sequence of brief sounds.
+0,23,28,audio-v2-0122,A car horn honking sharply.
+0,23,29,audio-v2-0349,A man speaking in a deep voice.
+0,23,30,audio-v2-0483,A bright metallic rattle.
+0,23,31,audio-v2-0194,A crumpled bag crunching.
+0,23,32,audio-v2-0608,A pattern alternating loud and soft.
+0,24,1,audio-v2-0233,A plastic cup crinkling in a hand.
+0,24,2,audio-v2-0221,A lighter clicking open.
+0,24,3,audio-v2-0201,A blanket rustling in bed.
+0,24,4,audio-v2-0217,A dustpan scraping the ground.
+0,24,5,audio-v2-0331,A person coughing repeatedly.
+0,24,6,audio-v2-0752,A sound bouncing off hard walls.
+0,24,7,audio-v2-0206,A glass bottle clinking on a counter.
+0,24,8,audio-v2-0146,A shipping container rattling on impact.
+0,24,9,audio-v2-0131,A cash machine whirring and clicking.
+0,24,10,audio-v2-0734,A busy passage between quiet intervals.
+0,24,11,audio-v2-0072,A fish splashing at the surface.
+0,24,12,audio-v2-0155,A bus engine vibrating at idle.
+0,24,13,audio-v2-0091,A drill boring into wood.
+0,24,14,audio-v2-0432,A fiddle playing a dance tune.
+0,24,15,audio-v2-0478,A glockenspiel chiming delicately.
+0,24,16,audio-v2-0022,Rain drumming on a roof.
+0,24,17,audio-v2-0686,A fading tremor after impact.
+0,24,18,audio-v2-0524,A brittle high-frequency fizz.
+0,24,19,audio-v2-0639,A two-part phrase repeated twice.
+0,24,20,audio-v2-0197,A staircase step groaning.
+0,24,21,audio-v2-0335,A person whistling a tune.
+0,24,22,audio-v2-0089,A bicycle freewheel ticking rapidly.
+0,24,23,audio-v2-0014,A rooster crowing at dawn.
+0,24,24,audio-v2-0782,A thin isolated source with empty space around it.
+0,24,25,audio-v2-0238,A coat zipper snagging briefly.
+0,24,26,audio-v2-0370,A shout fading into distance.
+0,24,27,audio-v2-0592,A rhythm that doubles in speed.
+0,24,28,audio-v2-0401,A piano playing single notes.
+0,24,29,audio-v2-0224,A mailbox flap slamming.
+0,24,30,audio-v2-0431,A concertina wheezing through chords.
+0,24,31,audio-v2-0330,A person sighing slowly.
+0,24,32,audio-v2-0114,A nail gun firing bursts.
+0,25,1,audio-v2-0073,An insect wingbeat buzzing close.
+0,25,2,audio-v2-0791,A foreground beep amid soft ambience.
+0,25,3,audio-v2-0502,A dense opaque wall of sound.
+0,25,4,audio-v2-0114,A nail gun firing bursts.
+0,25,5,audio-v2-0329,A baby babbling syllables.
+0,25,6,audio-v2-0070,Sparrows twittering in a hedge.
+0,25,7,audio-v2-0383,A crowd murmuring continuously.
+0,25,8,audio-v2-0769,A distant train under a nearer voice.
+0,25,9,audio-v2-0218,A sponge squeaking on glass.
+0,25,10,audio-v2-0252,A noisy sound becoming tonal.
+0,25,11,audio-v2-0223,A door latch clicking shut.
+0,25,12,audio-v2-0184,Keys clinking on a ring.
+0,25,13,audio-v2-0448,A celesta playing bell-like notes.
+0,25,14,audio-v2-0530,A dull muted knock.
+0,25,15,audio-v2-0030,A puddle splashing under footsteps.
+0,25,16,audio-v2-0235,A rug brushing underfoot.
+0,25,17,audio-v2-0354,A staccato burst of words.
+0,25,18,audio-v2-0221,A lighter clicking open.
+0,25,19,audio-v2-0342,A tense voice speaking quickly.
+0,25,20,audio-v2-0417,A cello bowing long tones.
+0,25,21,audio-v2-0662,A repeated diminuendo.
+0,25,22,audio-v2-0106,A blender motor spinning quickly.
+0,25,23,audio-v2-0016,A donkey braying loudly.
+0,25,24,audio-v2-0230,A chopping knife striking repeatedly.
+0,25,25,audio-v2-0164,Dishes clattering in a sink.
+0,25,26,audio-v2-0607,A layered rhythm with overlapping cycles.
+0,25,27,audio-v2-0469,A brass fanfare with heavy accents.
+0,25,28,audio-v2-0202,A sheet being shaken out.
+0,25,29,audio-v2-0588,A pair of sounds separated by silence.
+0,25,30,audio-v2-0152,A race car accelerating hard.
+0,25,31,audio-v2-0346,A laugh turning into a cough.
+0,25,32,audio-v2-0131,A cash machine whirring and clicking.
+0,26,1,audio-v2-0464,A conga pattern with hand strikes.
+0,26,2,audio-v2-0667,A slow fade in at the start.
+0,26,3,audio-v2-0465,A flute and guitar playing together.
+0,26,4,audio-v2-0703,A continuous sound with no break.
+0,26,5,audio-v2-0466,A choir with instruments underneath.
+0,26,6,audio-v2-0203,A towel fluttering and snapping.
+0,26,7,audio-v2-0405,A violin playing a sustained note.
+0,26,8,audio-v2-0239,A doorbell chime fading.
+0,26,9,audio-v2-0469,A brass fanfare with heavy accents.
+0,26,10,audio-v2-0354,A staccato burst of words.
+0,26,11,audio-v2-0334,A voice singing without words.
+0,26,12,audio-v2-0345,A raspy throat clearing.
+0,26,13,audio-v2-0606,A beat grouped in fours.
+0,26,14,audio-v2-0751,A call answered from a distance.
+0,26,15,audio-v2-0446,A triangle ringing lightly.
+0,26,16,audio-v2-0408,A saxophone playing a raspy phrase.
+0,26,17,audio-v2-0146,A shipping container rattling on impact.
+0,26,18,audio-v2-0137,A truck reversing with beeps.
+0,26,19,audio-v2-0136,A fan belt squealing briefly.
+0,26,20,audio-v2-0214,A mop swishing over tiles.
+0,26,21,audio-v2-0081,A car engine idling steadily.
+0,26,22,audio-v2-0772,A faucet running behind a conversation.
+0,26,23,audio-v2-0133,A lift motor rising smoothly.
+0,26,24,audio-v2-0171,Tape peeling from a roll.
+0,26,25,audio-v2-0389,A voice speaking in fragments.
+0,26,26,audio-v2-0458,A piano arpeggio running upward.
+0,26,27,audio-v2-0588,A pair of sounds separated by silence.
+0,26,28,audio-v2-0404,A bass guitar playing a riff.
+0,26,29,audio-v2-0179,A fork scraping a plate.
+0,26,30,audio-v2-0019,A seal barking from afar.
+0,26,31,audio-v2-0086,A subway rumbling underground.
+0,26,32,audio-v2-0535,A tight narrowband buzz.
+0,27,1,audio-v2-0225,A screen door creaking closed.
+0,27,2,audio-v2-0459,A drum brush swishing softly.
+0,27,3,audio-v2-0582,A clustered burst followed by silence.
+0,27,4,audio-v2-0109,A cash register clacking open.
+0,27,5,audio-v2-0133,A lift motor rising smoothly.
+0,27,6,audio-v2-0189,A jar lid opening with a pop.
+0,27,7,audio-v2-0150,A windshield wiper swishing back and forth.
+0,27,8,audio-v2-0248,A three-note repeating signal.
+0,27,9,audio-v2-0545,A rough frothy texture.
+0,27,10,audio-v2-0104,A diesel engine coughing into life.
+0,27,11,audio-v2-0470,A keyboard rhythm with bright attacks.
+0,27,12,audio-v2-0210,A tray rattling with dishes.
+0,27,13,audio-v2-0165,A glass clinking against another.
+0,27,14,audio-v2-0775,A roomy distant recording.
+0,27,15,audio-v2-0430,A banjo picking quick notes.
+0,27,16,audio-v2-0410,A brass ensemble playing chords.
+0,27,17,audio-v2-0572,A sparse series of large impacts.
+0,27,18,audio-v2-0006,A gull giving piercing cries.
+0,27,19,audio-v2-0350,A woman speaking with crisp diction.
+0,27,20,audio-v2-0249,A narrow band of high frequencies.
+0,27,21,audio-v2-0344,A breathy voice on exhale.
+0,27,22,audio-v2-0743,A wet reverberant sound.
+0,27,23,audio-v2-0154,A subway track rumbling by.
+0,27,24,audio-v2-0360,A kiss sound from pursed lips.
+0,27,25,audio-v2-0634,A jerky series of starts.
+0,27,26,audio-v2-0405,A violin playing a sustained note.
+0,27,27,audio-v2-0384,Overlapping laughter and speech.
+0,27,28,audio-v2-0008,A frog croaking repeatedly.
+0,27,29,audio-v2-0316,A low note with faint upper tones.
+0,27,30,audio-v2-0445,Maracas shaking rhythmically.
+0,27,31,audio-v2-0040,Branches creaking in the wind.
+0,27,32,audio-v2-0340,A shouted warning.
+0,28,1,audio-v2-0167,A microwave timer beeping.
+0,28,2,audio-v2-0037,Fire popping in a fireplace.
+0,28,3,audio-v2-0360,A kiss sound from pursed lips.
+0,28,4,audio-v2-0132,An escalator humming and rumbling.
+0,28,5,audio-v2-0588,A pair of sounds separated by silence.
+0,28,6,audio-v2-0229,A metal tray ringing on the counter.
+0,28,7,audio-v2-0313,A smooth continuous tone.
+0,28,8,audio-v2-0056,Sand scraping in the wind.
+0,28,9,audio-v2-0528,A hollow boxy resonance.
+0,28,10,audio-v2-0457,A pedal steel guitar sliding.
+0,28,11,audio-v2-0325,Rapidly spoken syllables.
+0,28,12,audio-v2-0114,A nail gun firing bursts.
+0,28,13,audio-v2-0678,A brief accent on each note.
+0,28,14,audio-v2-0082,A motorcycle engine rattling loudly.
+0,28,15,audio-v2-0002,A cat meowing in short bursts.
+0,28,16,audio-v2-0041,Frogs croaking beside water.
+0,28,17,audio-v2-0415,A synthesizer producing a sustained pad.
+0,28,18,audio-v2-0772,A faucet running behind a conversation.
+0,28,19,audio-v2-0208,A spoon dropping into a cup.
+0,28,20,audio-v2-0639,A two-part phrase repeated twice.
+0,28,21,audio-v2-0030,A puddle splashing under footsteps.
+0,28,22,audio-v2-0006,A gull giving piercing cries.
+0,28,23,audio-v2-0669,A short plosive burst.
+0,28,24,audio-v2-0131,A cash machine whirring and clicking.
+0,28,25,audio-v2-0016,A donkey braying loudly.
+0,28,26,audio-v2-0161,A wooden door creaking open.
+0,28,27,audio-v2-0085,A train clattering over tracks.
+0,28,28,audio-v2-0796,A nearby footstep on a reverberant surface.
+0,28,29,audio-v2-0417,A cello bowing long tones.
+0,28,30,audio-v2-0368,A pleading tone of speech.
+0,28,31,audio-v2-0358,A soft snore.
+0,28,32,audio-v2-0471,A synthesizer arpeggio looping.
+0,29,1,audio-v2-0009,Crickets chirping at night.
+0,29,2,audio-v2-0533,A resonant metallic sheen.
+0,29,3,audio-v2-0166,A kettle whistling loudly.
+0,29,4,audio-v2-0571,A fast trill of notes.
+0,29,5,audio-v2-0427,An organ holding a chord.
+0,29,6,audio-v2-0333,A person humming a melody.
+0,29,7,audio-v2-0002,A cat meowing in short bursts.
+0,29,8,audio-v2-0478,A glockenspiel chiming delicately.
+0,29,9,audio-v2-0519,A thin reedlike buzz.
+0,29,10,audio-v2-0224,A mailbox flap slamming.
+0,29,11,audio-v2-0070,Sparrows twittering in a hedge.
+0,29,12,audio-v2-0278,A faint sub-bass pulse.
+0,29,13,audio-v2-0028,Waves crashing onto shore.
+0,29,14,audio-v2-0189,A jar lid opening with a pop.
+0,29,15,audio-v2-0048,A parrot squawking repeatedly.
+0,29,16,audio-v2-0366,A clipped announcer voice.
+0,29,17,audio-v2-0355,An emotional cry from pain.
+0,29,18,audio-v2-0792,A pair of sources overlapping in depth.
+0,29,19,audio-v2-0004,A pig grunting steadily.
+0,29,20,audio-v2-0212,Water running into a sink.
+0,29,21,audio-v2-0093,A saw cutting through boards.
+0,29,22,audio-v2-0160,A motorboat engine puttering on water.
+0,29,23,audio-v2-0134,A garage door rolling upward.
+0,29,24,audio-v2-0461,A tom-tom rolling across drums.
+0,29,25,audio-v2-0099,An electronic device emitting beeps.
+0,29,26,audio-v2-0338,Several voices overlapping in chatter.
+0,29,27,audio-v2-0553,A granular crackle and hiss.
+0,29,28,audio-v2-0582,A clustered burst followed by silence.
+0,29,29,audio-v2-0546,A smooth glasslike resonance.
+0,29,30,audio-v2-0463,A clave pattern ticking.
+0,29,31,audio-v2-0453,A trumpet fanfare burst.
+0,29,32,audio-v2-0152,A race car accelerating hard.
+0,30,1,audio-v2-0014,A rooster crowing at dawn.
+0,30,2,audio-v2-0618,A series of hits building to a climax.
+0,30,3,audio-v2-0102,A bus braking with a hiss.
+0,30,4,audio-v2-0353,A slow measured speech cadence.
+0,30,5,audio-v2-0406,A double bass being plucked.
+0,30,6,audio-v2-0064,Hail rattling against metal.
+0,30,7,audio-v2-0363,A chant repeated by a group.
+0,30,8,audio-v2-0151,A scooter bell chiming briefly.
+0,30,9,audio-v2-0019,A seal barking from afar.
+0,30,10,audio-v2-0195,A cardboard box folding.
+0,30,11,audio-v2-0160,A motorboat engine puttering on water.
+0,30,12,audio-v2-0657,A gentle swell from soft to loud.
+0,30,13,audio-v2-0219,A sponge wiping a wet surface.
+0,30,14,audio-v2-0073,An insect wingbeat buzzing close.
+0,30,15,audio-v2-0103,A car door locking automatically.
+0,30,16,audio-v2-0362,Teeth chattering from cold.
+0,30,17,audio-v2-0673,A loud midsection framed by quiet.
+0,30,18,audio-v2-0320,A narrow resonant whistle.
+0,30,19,audio-v2-0003,A horse snorting forcefully.
+0,30,20,audio-v2-0384,Overlapping laughter and speech.
+0,30,21,audio-v2-0321,One person speaking clearly.
+0,30,22,audio-v2-0208,A spoon dropping into a cup.
+0,30,23,audio-v2-0152,A race car accelerating hard.
+0,30,24,audio-v2-0432,A fiddle playing a dance tune.
+0,30,25,audio-v2-0307,A low throbbing drone.
+0,30,26,audio-v2-0529,A bright glistening sound.
+0,30,27,audio-v2-0354,A staccato burst of words.
+0,30,28,audio-v2-0134,A garage door rolling upward.
+0,30,29,audio-v2-0303,A tone arcing over a wide range.
+0,30,30,audio-v2-0510,A woody tapped sound.
+0,30,31,audio-v2-0129,A stapler snapping through paper.
+0,30,32,audio-v2-0012,A bat making rapid squeaks.
+0,31,1,audio-v2-0157,A smoke alarm chirping repeatedly.
+0,31,2,audio-v2-0635,A continuous rhythm under a steady drone.
+0,31,3,audio-v2-0336,A distorted voice over a radio.
+0,31,4,audio-v2-0218,A sponge squeaking on glass.
+0,31,5,audio-v2-0651,A sharp impact followed by ringing.
+0,31,6,audio-v2-0344,A breathy voice on exhale.
+0,31,7,audio-v2-0010,A crow cawing sharply.
+0,31,8,audio-v2-0416,A small band playing together.
+0,31,9,audio-v2-0013,A sheep bleating softly.
+0,31,10,audio-v2-0442,A sampled beat with heavy bass.
+0,31,11,audio-v2-0113,A jackhammer pounding the pavement.
+0,31,12,audio-v2-0223,A door latch clicking shut.
+0,31,13,audio-v2-0216,A broom brushing across the floor.
+0,31,14,audio-v2-0122,A car horn honking sharply.
+0,31,15,audio-v2-0588,A pair of sounds separated by silence.
+0,31,16,audio-v2-0514,A shimmery metallic sheen.
+0,31,17,audio-v2-0407,A flute playing a clear melody.
+0,31,18,audio-v2-0137,A truck reversing with beeps.
+0,31,19,audio-v2-0769,A distant train under a nearer voice.
+0,31,20,audio-v2-0438,A piano chord resolving gently.
+0,31,21,audio-v2-0032,Wind whistling around corners.
+0,31,22,audio-v2-0428,A church bell ringing musically.
+0,31,23,audio-v2-0017,A bee swarm humming densely.
+0,31,24,audio-v2-0127,A record player spinning steadily.
+0,31,25,audio-v2-0613,A staccato chain of discrete attacks.
+0,31,26,audio-v2-0363,A chant repeated by a group.
+0,31,27,audio-v2-0208,A spoon dropping into a cup.
+0,31,28,audio-v2-0348,A child calling out.
+0,31,29,audio-v2-0131,A cash machine whirring and clicking.
+0,31,30,audio-v2-0188,A bottle cap twisting off.
+0,31,31,audio-v2-0444,A hand drum ensemble improvising.
+0,31,32,audio-v2-0384,Overlapping laughter and speech.
+1,0,1,audio-v2-0451,A harp glissando sweeping upward.
+1,0,2,audio-v2-0327,A person laughing openly.
+1,0,3,audio-v2-0331,A person coughing repeatedly.
+1,0,4,audio-v2-0041,Frogs croaking beside water.
+1,0,5,audio-v2-0189,A jar lid opening with a pop.
+1,0,6,audio-v2-0540,A soft cushiony thump.
+1,0,7,audio-v2-0335,A person whistling a tune.
+1,0,8,audio-v2-0330,A person sighing slowly.
+1,0,9,audio-v2-0265,A metallic overtone band.
+1,0,10,audio-v2-0384,Overlapping laughter and speech.
+1,0,11,audio-v2-0342,A tense voice speaking quickly.
+1,0,12,audio-v2-0639,A two-part phrase repeated twice.
+1,0,13,audio-v2-0329,A baby babbling syllables.
+1,0,14,audio-v2-0429,A ukulele strumming lightly.
+1,0,15,audio-v2-0193,A newspaper rustling in hands.
+1,0,16,audio-v2-0422,A marimba striking wooden bars.
+1,0,17,audio-v2-0070,Sparrows twittering in a hedge.
+1,0,18,audio-v2-0078,A camel grunting in the distance.
+1,0,19,audio-v2-0027,Water gurgling inside a cave.
+1,0,20,audio-v2-0037,Fire popping in a fireplace.
+1,0,21,audio-v2-0432,A fiddle playing a dance tune.
+1,0,22,audio-v2-0546,A smooth glasslike resonance.
+1,0,23,audio-v2-0372,A speaking voice with pauses.
+1,0,24,audio-v2-0137,A truck reversing with beeps.
+1,0,25,audio-v2-0653,A recording with large volume contrasts.
+1,0,26,audio-v2-0169,A shower spraying water.
+1,0,27,audio-v2-0180,A knife tapping against a cutting board.
+1,0,28,audio-v2-0153,A truck suspension clunking over bumps.
+1,0,29,audio-v2-0571,A fast trill of notes.
+1,0,30,audio-v2-0483,A bright metallic rattle.
+1,0,31,audio-v2-0391,A shouted phrase with force.
+1,0,32,audio-v2-0445,Maracas shaking rhythmically.
+1,1,1,audio-v2-0772,A faucet running behind a conversation.
+1,1,2,audio-v2-0049,Grasshoppers chirring in the field.
+1,1,3,audio-v2-0003,A horse snorting forcefully.
+1,1,4,audio-v2-0072,A fish splashing at the surface.
+1,1,5,audio-v2-0232,A can opening with a hiss.
+1,1,6,audio-v2-0730,Footsteps over a crowd murmur.
+1,1,7,audio-v2-0027,Water gurgling inside a cave.
+1,1,8,audio-v2-0535,A tight narrowband buzz.
+1,1,9,audio-v2-0678,A brief accent on each note.
+1,1,10,audio-v2-0039,Leaves rustling softly in a breeze.
+1,1,11,audio-v2-0175,A clock ticking evenly.
+1,1,12,audio-v2-0170,Paper tearing in a strip.
+1,1,13,audio-v2-0332,A person swallowing audibly.
+1,1,14,audio-v2-0219,A sponge wiping a wet surface.
+1,1,15,audio-v2-0100,A crossing signal beeping rhythmically.
+1,1,16,audio-v2-0378,A baby crying loudly.
+1,1,17,audio-v2-0146,A shipping container rattling on impact.
+1,1,18,audio-v2-0024,A river rushing strongly.
+1,1,19,audio-v2-0147,A cart wheel squeaking along.
+1,1,20,audio-v2-0011,A squirrel chattering rapidly.
+1,1,21,audio-v2-0391,A shouted phrase with force.
+1,1,22,audio-v2-0562,A sequence of brief sounds.
+1,1,23,audio-v2-0747,A centered sound amid wider ambience.
+1,1,24,audio-v2-0615,A pattern of distant repeating knocks.
+1,1,25,audio-v2-0181,A pan sizzling on the stove.
+1,1,26,audio-v2-0106,A blender motor spinning quickly.
+1,1,27,audio-v2-0384,Overlapping laughter and speech.
+1,1,28,audio-v2-0017,A bee swarm humming densely.
+1,1,29,audio-v2-0413,Bongos playing alternating strokes.
+1,1,30,audio-v2-0404,A bass guitar playing a riff.
+1,1,31,audio-v2-0165,A glass clinking against another.
+1,1,32,audio-v2-0290,A warm rounded resonance.
+1,2,1,audio-v2-0480,A percussion break with scattered hits.
+1,2,2,audio-v2-0146,A shipping container rattling on impact.
+1,2,3,audio-v2-0428,A church bell ringing musically.
+1,2,4,audio-v2-0482,A brittle crackling sound.
+1,2,5,audio-v2-0132,An escalator humming and rumbling.
+1,2,6,audio-v2-0462,A cymbal crash blooming.
+1,2,7,audio-v2-0218,A sponge squeaking on glass.
+1,2,8,audio-v2-0094,A hammer drill pounding repeatedly.
+1,2,9,audio-v2-0461,A tom-tom rolling across drums.
+1,2,10,audio-v2-0451,A harp glissando sweeping upward.
+1,2,11,audio-v2-0164,Dishes clattering in a sink.
+1,2,12,audio-v2-0122,A car horn honking sharply.
+1,2,13,audio-v2-0183,Coins jingling in a pocket.
+1,2,14,audio-v2-0322,A voice speaking very softly.
+1,2,15,audio-v2-0138,A siren wailing past.
+1,2,16,audio-v2-0394,A strained voice under pressure.
+1,2,17,audio-v2-0528,A hollow boxy resonance.
+1,2,18,audio-v2-0384,Overlapping laughter and speech.
+1,2,19,audio-v2-0209,A plate sliding across a table.
+1,2,20,audio-v2-0070,Sparrows twittering in a hedge.
+1,2,21,audio-v2-0432,A fiddle playing a dance tune.
+1,2,22,audio-v2-0174,A ball bouncing repeatedly.
+1,2,23,audio-v2-0009,Crickets chirping at night.
+1,2,24,audio-v2-0127,A record player spinning steadily.
+1,2,25,audio-v2-0341,A cheerful voice with bright tone.
+1,2,26,audio-v2-0385,A voice speaking through clenched teeth.
+1,2,27,audio-v2-0410,A brass ensemble playing chords.
+1,2,28,audio-v2-0606,A beat grouped in fours.
+1,2,29,audio-v2-0224,A mailbox flap slamming.
+1,2,30,audio-v2-0378,A baby crying loudly.
+1,2,31,audio-v2-0403,An acoustic guitar being strummed.
+1,2,32,audio-v2-0313,A smooth continuous tone.
+1,3,1,audio-v2-0070,Sparrows twittering in a hedge.
+1,3,2,audio-v2-0043,An owl hooting at night.
+1,3,3,audio-v2-0181,A pan sizzling on the stove.
+1,3,4,audio-v2-0332,A person swallowing audibly.
+1,3,5,audio-v2-0194,A crumpled bag crunching.
+1,3,6,audio-v2-0229,A metal tray ringing on the counter.
+1,3,7,audio-v2-0495,A watery plopping sound.
+1,3,8,audio-v2-0430,A banjo picking quick notes.
+1,3,9,audio-v2-0185,A metal chair scraping the floor.
+1,3,10,audio-v2-0089,A bicycle freewheel ticking rapidly.
+1,3,11,audio-v2-0414,A xylophone playing bright notes.
+1,3,12,audio-v2-0078,A camel grunting in the distance.
+1,3,13,audio-v2-0218,A sponge squeaking on glass.
+1,3,14,audio-v2-0698,A loud foreground burst.
+1,3,15,audio-v2-0249,A narrow band of high frequencies.
+1,3,16,audio-v2-0010,A crow cawing sharply.
+1,3,17,audio-v2-0075,A hedgehog snuffling in leaves.
+1,3,18,audio-v2-0390,A call-and-response chant.
+1,3,19,audio-v2-0423,A cymbal shimmering after impact.
+1,3,20,audio-v2-0433,A horn section stabbing accents.
+1,3,21,audio-v2-0432,A fiddle playing a dance tune.
+1,3,22,audio-v2-0032,Wind whistling around corners.
+1,3,23,audio-v2-0389,A voice speaking in fragments.
+1,3,24,audio-v2-0131,A cash machine whirring and clicking.
+1,3,25,audio-v2-0591,A continual flutter without clear breaks.
+1,3,26,audio-v2-0223,A door latch clicking shut.
+1,3,27,audio-v2-0001,A dog barking repeatedly.
+1,3,28,audio-v2-0072,A fish splashing at the surface.
+1,3,29,audio-v2-0171,Tape peeling from a roll.
+1,3,30,audio-v2-0102,A bus braking with a hiss.
+1,3,31,audio-v2-0549,A buzzing edge over tone.
+1,3,32,audio-v2-0383,A crowd murmuring continuously.
+1,4,1,audio-v2-0033,Stormy gust rattling branches.
+1,4,2,audio-v2-0531,A sizzling crackle layer.
+1,4,3,audio-v2-0793,A sound centered between left and right.
+1,4,4,audio-v2-0062,A distant thunderstorm rolling in.
+1,4,5,audio-v2-0577,A burst of three quick hits.
+1,4,6,audio-v2-0437,A bass clarinet sounding darkly.
+1,4,7,audio-v2-0499,A fuzzy blurred tone.
+1,4,8,audio-v2-0480,A percussion break with scattered hits.
+1,4,9,audio-v2-0137,A truck reversing with beeps.
+1,4,10,audio-v2-0642,A sound with constant loudness.
+1,4,11,audio-v2-0578,A call with a long pause.
+1,4,12,audio-v2-0087,A boat motor puttering softly.
+1,4,13,audio-v2-0168,Water pouring into a glass.
+1,4,14,audio-v2-0223,A door latch clicking shut.
+1,4,15,audio-v2-0179,A fork scraping a plate.
+1,4,16,audio-v2-0272,A stepped melody fragment.
+1,4,17,audio-v2-0153,A truck suspension clunking over bumps.
+1,4,18,audio-v2-0230,A chopping knife striking repeatedly.
+1,4,19,audio-v2-0344,A breathy voice on exhale.
+1,4,20,audio-v2-0598,A pulse pattern with occasional gaps.
+1,4,21,audio-v2-0232,A can opening with a hiss.
+1,4,22,audio-v2-0075,A hedgehog snuffling in leaves.
+1,4,23,audio-v2-0316,A low note with faint upper tones.
+1,4,24,audio-v2-0126,A fridge compressor kicking in.
+1,4,25,audio-v2-0152,A race car accelerating hard.
+1,4,26,audio-v2-0415,A synthesizer producing a sustained pad.
+1,4,27,audio-v2-0202,A sheet being shaken out.
+1,4,28,audio-v2-0071,Seabirds crying above waves.
+1,4,29,audio-v2-0013,A sheep bleating softly.
+1,4,30,audio-v2-0089,A bicycle freewheel ticking rapidly.
+1,4,31,audio-v2-0233,A plastic cup crinkling in a hand.
+1,4,32,audio-v2-0257,A sharp resonant ring.
+1,5,1,audio-v2-0505,A rasping dry timbre.
+1,5,2,audio-v2-0348,A child calling out.
+1,5,3,audio-v2-0344,A breathy voice on exhale.
+1,5,4,audio-v2-0327,A person laughing openly.
+1,5,5,audio-v2-0363,A chant repeated by a group.
+1,5,6,audio-v2-0235,A rug brushing underfoot.
+1,5,7,audio-v2-0033,Stormy gust rattling branches.
+1,5,8,audio-v2-0355,An emotional cry from pain.
+1,5,9,audio-v2-0429,A ukulele strumming lightly.
+1,5,10,audio-v2-0759,A sound outside in open air.
+1,5,11,audio-v2-0665,A sudden drop to silence.
+1,5,12,audio-v2-0379,A toddler babbling happily.
+1,5,13,audio-v2-0767,A background hum under foreground speech.
+1,5,14,audio-v2-0151,A scooter bell chiming briefly.
+1,5,15,audio-v2-0549,A buzzing edge over tone.
+1,5,16,audio-v2-0462,A cymbal crash blooming.
+1,5,17,audio-v2-0184,Keys clinking on a ring.
+1,5,18,audio-v2-0595,A sequence of isolated clicks.
+1,5,19,audio-v2-0380,A person humming softly.
+1,5,20,audio-v2-0177,A cabinet door shutting softly.
+1,5,21,audio-v2-0015,A wolf howling in the distance.
+1,5,22,audio-v2-0407,A flute playing a clear melody.
+1,5,23,audio-v2-0181,A pan sizzling on the stove.
+1,5,24,audio-v2-0404,A bass guitar playing a riff.
+1,5,25,audio-v2-0364,A spoken phrase with an echo.
+1,5,26,audio-v2-0458,A piano arpeggio running upward.
+1,5,27,audio-v2-0048,A parrot squawking repeatedly.
+1,5,28,audio-v2-0289,A high glassy resonance.
+1,5,29,audio-v2-0606,A beat grouped in fours.
+1,5,30,audio-v2-0237,A suitcase zipper tugging closed.
+1,5,31,audio-v2-0004,A pig grunting steadily.
+1,5,32,audio-v2-0445,Maracas shaking rhythmically.
+1,6,1,audio-v2-0444,A hand drum ensemble improvising.
+1,6,2,audio-v2-0544,A airy hiss with noise.
+1,6,3,audio-v2-0153,A truck suspension clunking over bumps.
+1,6,4,audio-v2-0774,A dry close-mic recording.
+1,6,5,audio-v2-0558,A shimmering noisy halo.
+1,6,6,audio-v2-0362,Teeth chattering from cold.
+1,6,7,audio-v2-0594,A loop of four steady pulses.
+1,6,8,audio-v2-0030,A puddle splashing under footsteps.
+1,6,9,audio-v2-0133,A lift motor rising smoothly.
+1,6,10,audio-v2-0769,A distant train under a nearer voice.
+1,6,11,audio-v2-0020,A lion roaring once.
+1,6,12,audio-v2-0588,A pair of sounds separated by silence.
+1,6,13,audio-v2-0236,A shoelace sliding through an eyelet.
+1,6,14,audio-v2-0033,Stormy gust rattling branches.
+1,6,15,audio-v2-0364,A spoken phrase with an echo.
+1,6,16,audio-v2-0106,A blender motor spinning quickly.
+1,6,17,audio-v2-0546,A smooth glasslike resonance.
+1,6,18,audio-v2-0315,A ringing note with a bright edge.
+1,6,19,audio-v2-0205,A plastic container snapping shut.
+1,6,20,audio-v2-0429,A ukulele strumming lightly.
+1,6,21,audio-v2-0332,A person swallowing audibly.
+1,6,22,audio-v2-0391,A shouted phrase with force.
+1,6,23,audio-v2-0456,A clean guitar arpeggio.
+1,6,24,audio-v2-0433,A horn section stabbing accents.
+1,6,25,audio-v2-0797,A muffled sound behind a closed door.
+1,6,26,audio-v2-0489,A metallic sound ringing freely.
+1,6,27,audio-v2-0540,A soft cushiony thump.
+1,6,28,audio-v2-0016,A donkey braying loudly.
+1,6,29,audio-v2-0321,One person speaking clearly.
+1,6,30,audio-v2-0088,A motor slowing to a stop.
+1,6,31,audio-v2-0589,A cascade of descending beats.
+1,6,32,audio-v2-0201,A blanket rustling in bed.
+1,7,1,audio-v2-0131,A cash machine whirring and clicking.
+1,7,2,audio-v2-0231,A rolling pin thumping dough.
+1,7,3,audio-v2-0774,A dry close-mic recording.
+1,7,4,audio-v2-0044,Ducks quacking near water.
+1,7,5,audio-v2-0531,A sizzling crackle layer.
+1,7,6,audio-v2-0197,A staircase step groaning.
+1,7,7,audio-v2-0437,A bass clarinet sounding darkly.
+1,7,8,audio-v2-0240,A curtain rod clacking against brackets.
+1,7,9,audio-v2-0232,A can opening with a hiss.
+1,7,10,audio-v2-0238,A coat zipper snagging briefly.
+1,7,11,audio-v2-0002,A cat meowing in short bursts.
+1,7,12,audio-v2-0582,A clustered burst followed by silence.
+1,7,13,audio-v2-0219,A sponge wiping a wet surface.
+1,7,14,audio-v2-0767,A background hum under foreground speech.
+1,7,15,audio-v2-0456,A clean guitar arpeggio.
+1,7,16,audio-v2-0723,A voice echoing in a large room.
+1,7,17,audio-v2-0432,A fiddle playing a dance tune.
+1,7,18,audio-v2-0336,A distorted voice over a radio.
+1,7,19,audio-v2-0159,A chainsaw revving then cutting.
+1,7,20,audio-v2-0410,A brass ensemble playing chords.
+1,7,21,audio-v2-0157,A smoke alarm chirping repeatedly.
+1,7,22,audio-v2-0361,Tongue clicking against the palate.
+1,7,23,audio-v2-0408,A saxophone playing a raspy phrase.
+1,7,24,audio-v2-0625,A wavering sequence of irregular beats.
+1,7,25,audio-v2-0414,A xylophone playing bright notes.
+1,7,26,audio-v2-0376,A dry cough.
+1,7,27,audio-v2-0562,A sequence of brief sounds.
+1,7,28,audio-v2-0466,A choir with instruments underneath.
+1,7,29,audio-v2-0384,Overlapping laughter and speech.
+1,7,30,audio-v2-0164,Dishes clattering in a sink.
+1,7,31,audio-v2-0542,A resonant wooden creak.
+1,7,32,audio-v2-0059,A bee buzzing near flowers.
+1,8,1,audio-v2-0019,A seal barking from afar.
+1,8,2,audio-v2-0102,A bus braking with a hiss.
+1,8,3,audio-v2-0654,A series of impacts with varying strength.
+1,8,4,audio-v2-0134,A garage door rolling upward.
+1,8,5,audio-v2-0406,A double bass being plucked.
+1,8,6,audio-v2-0657,A gentle swell from soft to loud.
+1,8,7,audio-v2-0603,A stop-start pattern.
+1,8,8,audio-v2-0073,An insect wingbeat buzzing close.
+1,8,9,audio-v2-0363,A chant repeated by a group.
+1,8,10,audio-v2-0446,A triangle ringing lightly.
+1,8,11,audio-v2-0054,Snow crunching beneath boots.
+1,8,12,audio-v2-0123,An alarm sounding in pulses.
+1,8,13,audio-v2-0207,A ceramic mug setting down sharply.
+1,8,14,audio-v2-0128,A turntable needle crackling slightly.
+1,8,15,audio-v2-0766,A source masked then revealed.
+1,8,16,audio-v2-0669,A short plosive burst.
+1,8,17,audio-v2-0116,A sandblaster hissing under pressure.
+1,8,18,audio-v2-0407,A flute playing a clear melody.
+1,8,19,audio-v2-0072,A fish splashing at the surface.
+1,8,20,audio-v2-0734,A busy passage between quiet intervals.
+1,8,21,audio-v2-0287,A melody fragment ending high.
+1,8,22,audio-v2-0106,A blender motor spinning quickly.
+1,8,23,audio-v2-0070,Sparrows twittering in a hedge.
+1,8,24,audio-v2-0647,A percussive sound with no sustain.
+1,8,25,audio-v2-0352,A voice trailing off mid-sentence.
+1,8,26,audio-v2-0103,A car door locking automatically.
+1,8,27,audio-v2-0064,Hail rattling against metal.
+1,8,28,audio-v2-0192,Book pages flipping rapidly.
+1,8,29,audio-v2-0428,A church bell ringing musically.
+1,8,30,audio-v2-0555,A dense clustered noise.
+1,8,31,audio-v2-0756,A sound with a short slapback echo.
+1,8,32,audio-v2-0160,A motorboat engine puttering on water.
+1,9,1,audio-v2-0383,A crowd murmuring continuously.
+1,9,2,audio-v2-0391,A shouted phrase with force.
+1,9,3,audio-v2-0174,A ball bouncing repeatedly.
+1,9,4,audio-v2-0792,A pair of sources overlapping in depth.
+1,9,5,audio-v2-0271,A pair of alternating pitches.
+1,9,6,audio-v2-0223,A door latch clicking shut.
+1,9,7,audio-v2-0172,Cloth rubbing against cloth.
+1,9,8,audio-v2-0558,A shimmering noisy halo.
+1,9,9,audio-v2-0109,A cash register clacking open.
+1,9,10,audio-v2-0007,Bees buzzing continuously.
+1,9,11,audio-v2-0348,A child calling out.
+1,9,12,audio-v2-0399,A rounded vowel sound.
+1,9,13,audio-v2-0168,Water pouring into a glass.
+1,9,14,audio-v2-0005,Geese honking in a group.
+1,9,15,audio-v2-0160,A motorboat engine puttering on water.
+1,9,16,audio-v2-0442,A sampled beat with heavy bass.
+1,9,17,audio-v2-0496,A low grinding friction sound.
+1,9,18,audio-v2-0431,A concertina wheezing through chords.
+1,9,19,audio-v2-0187,A box thudding onto the table.
+1,9,20,audio-v2-0030,A puddle splashing under footsteps.
+1,9,21,audio-v2-0396,A voice cracking with age.
+1,9,22,audio-v2-0086,A subway rumbling underground.
+1,9,23,audio-v2-0121,A scooter zipping past quickly.
+1,9,24,audio-v2-0335,A person whistling a tune.
+1,9,25,audio-v2-0659,A soft onset with a long tail.
+1,9,26,audio-v2-0107,A vacuum cleaner running steadily.
+1,9,27,audio-v2-0413,Bongos playing alternating strokes.
+1,9,28,audio-v2-0412,A hi-hat opening and closing.
+1,9,29,audio-v2-0457,A pedal steel guitar sliding.
+1,9,30,audio-v2-0460,A snare hit with a rimshot.
+1,9,31,audio-v2-0037,Fire popping in a fireplace.
+1,9,32,audio-v2-0297,A detuned interval beating slowly.
+1,10,1,audio-v2-0427,An organ holding a chord.
+1,10,2,audio-v2-0597,A rolling pattern of taps.
+1,10,3,audio-v2-0360,A kiss sound from pursed lips.
+1,10,4,audio-v2-0468,A double-reed instrument buzzing.
+1,10,5,audio-v2-0376,A dry cough.
+1,10,6,audio-v2-0414,A xylophone playing bright notes.
+1,10,7,audio-v2-0269,A bright high register.
+1,10,8,audio-v2-0457,A pedal steel guitar sliding.
+1,10,9,audio-v2-0312,A melodic line with wide leaps.
+1,10,10,audio-v2-0786,A close impact with immediate reflections.
+1,10,11,audio-v2-0469,A brass fanfare with heavy accents.
+1,10,12,audio-v2-0072,A fish splashing at the surface.
+1,10,13,audio-v2-0450,A violin pizzicato pattern.
+1,10,14,audio-v2-0161,A wooden door creaking open.
+1,10,15,audio-v2-0460,A snare hit with a rimshot.
+1,10,16,audio-v2-0043,An owl hooting at night.
+1,10,17,audio-v2-0474,A solo piano improvising freely.
+1,10,18,audio-v2-0690,A sudden loudness jump.
+1,10,19,audio-v2-0588,A pair of sounds separated by silence.
+1,10,20,audio-v2-0197,A staircase step groaning.
+1,10,21,audio-v2-0111,A conveyor belt rattling along.
+1,10,22,audio-v2-0083,Tires squealing during a turn.
+1,10,23,audio-v2-0334,A voice singing without words.
+1,10,24,audio-v2-0426,A full drum kit playing a groove.
+1,10,25,audio-v2-0675,A bursty envelope with multiple peaks.
+1,10,26,audio-v2-0371,A whispered conversation.
+1,10,27,audio-v2-0106,A blender motor spinning quickly.
+1,10,28,audio-v2-0284,A smooth pitch arc.
+1,10,29,audio-v2-0017,A bee swarm humming densely.
+1,10,30,audio-v2-0772,A faucet running behind a conversation.
+1,10,31,audio-v2-0509,A ringing glassy texture.
+1,10,32,audio-v2-0199,Footsteps on carpeted stairs.
+1,11,1,audio-v2-0334,A voice singing without words.
+1,11,2,audio-v2-0571,A fast trill of notes.
+1,11,3,audio-v2-0146,A shipping container rattling on impact.
+1,11,4,audio-v2-0494,A sound with a shimmering overtone.
+1,11,5,audio-v2-0489,A metallic sound ringing freely.
+1,11,6,audio-v2-0432,A fiddle playing a dance tune.
+1,11,7,audio-v2-0139,A helicopter blades chopping the air.
+1,11,8,audio-v2-0770,A car passing while wind remains.
+1,11,9,audio-v2-0410,A brass ensemble playing chords.
+1,11,10,audio-v2-0456,A clean guitar arpeggio.
+1,11,11,audio-v2-0401,A piano playing single notes.
+1,11,12,audio-v2-0238,A coat zipper snagging briefly.
+1,11,13,audio-v2-0588,A pair of sounds separated by silence.
+1,11,14,audio-v2-0172,Cloth rubbing against cloth.
+1,11,15,audio-v2-0422,A marimba striking wooden bars.
+1,11,16,audio-v2-0376,A dry cough.
+1,11,17,audio-v2-0478,A glockenspiel chiming delicately.
+1,11,18,audio-v2-0213,A bucket sloshing with water.
+1,11,19,audio-v2-0800,A layered scene with clear depth cues.
+1,11,20,audio-v2-0024,A river rushing strongly.
+1,11,21,audio-v2-0418,A harp arpeggiating gently.
+1,11,22,audio-v2-0104,A diesel engine coughing into life.
+1,11,23,audio-v2-0002,A cat meowing in short bursts.
+1,11,24,audio-v2-0210,A tray rattling with dishes.
+1,11,25,audio-v2-0366,A clipped announcer voice.
+1,11,26,audio-v2-0221,A lighter clicking open.
+1,11,27,audio-v2-0116,A sandblaster hissing under pressure.
+1,11,28,audio-v2-0419,A clarinet playing a mellow line.
+1,11,29,audio-v2-0678,A brief accent on each note.
+1,11,30,audio-v2-0428,A church bell ringing musically.
+1,11,31,audio-v2-0157,A smoke alarm chirping repeatedly.
+1,11,32,audio-v2-0356,A gasp of surprise.
+1,12,1,audio-v2-0461,A tom-tom rolling across drums.
+1,12,2,audio-v2-0443,A string quartet playing in unison.
+1,12,3,audio-v2-0455,A distorted electric guitar chord.
+1,12,4,audio-v2-0419,A clarinet playing a mellow line.
+1,12,5,audio-v2-0726,A sound circling in the stereo field.
+1,12,6,audio-v2-0439,A guitar harmonics chiming.
+1,12,7,audio-v2-0605,A beat grouped in threes.
+1,12,8,audio-v2-0015,A wolf howling in the distance.
+1,12,9,audio-v2-0716,A sequence of notes swelling in steps.
+1,12,10,audio-v2-0031,Wind rustling through leaves.
+1,12,11,audio-v2-0210,A tray rattling with dishes.
+1,12,12,audio-v2-0199,Footsteps on carpeted stairs.
+1,12,13,audio-v2-0144,A press stamping sheets of metal.
+1,12,14,audio-v2-0330,A person sighing slowly.
+1,12,15,audio-v2-0209,A plate sliding across a table.
+1,12,16,audio-v2-0756,A sound with a short slapback echo.
+1,12,17,audio-v2-0751,A call answered from a distance.
+1,12,18,audio-v2-0012,A bat making rapid squeaks.
+1,12,19,audio-v2-0205,A plastic container snapping shut.
+1,12,20,audio-v2-0407,A flute playing a clear melody.
+1,12,21,audio-v2-0766,A source masked then revealed.
+1,12,22,audio-v2-0083,Tires squealing during a turn.
+1,12,23,audio-v2-0313,A smooth continuous tone.
+1,12,24,audio-v2-0242,A thin piercing whistle.
+1,12,25,audio-v2-0339,A whisper spoken close to the mic.
+1,12,26,audio-v2-0030,A puddle splashing under footsteps.
+1,12,27,audio-v2-0436,A muted trumpet playing softly.
+1,12,28,audio-v2-0137,A truck reversing with beeps.
+1,12,29,audio-v2-0321,One person speaking clearly.
+1,12,30,audio-v2-0348,A child calling out.
+1,12,31,audio-v2-0333,A person humming a melody.
+1,12,32,audio-v2-0212,Water running into a sink.
+1,13,1,audio-v2-0208,A spoon dropping into a cup.
+1,13,2,audio-v2-0225,A screen door creaking closed.
+1,13,3,audio-v2-0205,A plastic container snapping shut.
+1,13,4,audio-v2-0089,A bicycle freewheel ticking rapidly.
+1,13,5,audio-v2-0530,A dull muted knock.
+1,13,6,audio-v2-0182,A lid rattling on a pot.
+1,13,7,audio-v2-0131,A cash machine whirring and clicking.
+1,13,8,audio-v2-0230,A chopping knife striking repeatedly.
+1,13,9,audio-v2-0575,A sustained sound lasting several seconds.
+1,13,10,audio-v2-0445,Maracas shaking rhythmically.
+1,13,11,audio-v2-0220,A match striking and flaring.
+1,13,12,audio-v2-0051,Pebbles rolling downhill.
+1,13,13,audio-v2-0385,A voice speaking through clenched teeth.
+1,13,14,audio-v2-0184,Keys clinking on a ring.
+1,13,15,audio-v2-0327,A person laughing openly.
+1,13,16,audio-v2-0019,A seal barking from afar.
+1,13,17,audio-v2-0238,A coat zipper snagging briefly.
+1,13,18,audio-v2-0603,A stop-start pattern.
+1,13,19,audio-v2-0195,A cardboard box folding.
+1,13,20,audio-v2-0320,A narrow resonant whistle.
+1,13,21,audio-v2-0091,A drill boring into wood.
+1,13,22,audio-v2-0010,A crow cawing sharply.
+1,13,23,audio-v2-0363,A chant repeated by a group.
+1,13,24,audio-v2-0659,A soft onset with a long tail.
+1,13,25,audio-v2-0588,A pair of sounds separated by silence.
+1,13,26,audio-v2-0460,A snare hit with a rimshot.
+1,13,27,audio-v2-0124,A timer beeping at intervals.
+1,13,28,audio-v2-0214,A mop swishing over tiles.
+1,13,29,audio-v2-0433,A horn section stabbing accents.
+1,13,30,audio-v2-0653,A recording with large volume contrasts.
+1,13,31,audio-v2-0403,An acoustic guitar being strummed.
+1,13,32,audio-v2-0028,Waves crashing onto shore.
+1,14,1,audio-v2-0698,A loud foreground burst.
+1,14,2,audio-v2-0090,A plane engine whirring overhead.
+1,14,3,audio-v2-0654,A series of impacts with varying strength.
+1,14,4,audio-v2-0134,A garage door rolling upward.
+1,14,5,audio-v2-0114,A nail gun firing bursts.
+1,14,6,audio-v2-0023,Heavy rain lashing the ground.
+1,14,7,audio-v2-0460,A snare hit with a rimshot.
+1,14,8,audio-v2-0100,A crossing signal beeping rhythmically.
+1,14,9,audio-v2-0034,Thunder rumbling in the distance.
+1,14,10,audio-v2-0004,A pig grunting steadily.
+1,14,11,audio-v2-0364,A spoken phrase with an echo.
+1,14,12,audio-v2-0704,A trembling volume contour.
+1,14,13,audio-v2-0684,A ringing tail after a strike.
+1,14,14,audio-v2-0388,A singer holding a long note.
+1,14,15,audio-v2-0051,Pebbles rolling downhill.
+1,14,16,audio-v2-0232,A can opening with a hiss.
+1,14,17,audio-v2-0032,Wind whistling around corners.
+1,14,18,audio-v2-0012,A bat making rapid squeaks.
+1,14,19,audio-v2-0774,A dry close-mic recording.
+1,14,20,audio-v2-0238,A coat zipper snagging briefly.
+1,14,21,audio-v2-0168,Water pouring into a glass.
+1,14,22,audio-v2-0469,A brass fanfare with heavy accents.
+1,14,23,audio-v2-0432,A fiddle playing a dance tune.
+1,14,24,audio-v2-0796,A nearby footstep on a reverberant surface.
+1,14,25,audio-v2-0233,A plastic cup crinkling in a hand.
+1,14,26,audio-v2-0072,A fish splashing at the surface.
+1,14,27,audio-v2-0218,A sponge squeaking on glass.
+1,14,28,audio-v2-0093,A saw cutting through boards.
+1,14,29,audio-v2-0121,A scooter zipping past quickly.
+1,14,30,audio-v2-0592,A rhythm that doubles in speed.
+1,14,31,audio-v2-0494,A sound with a shimmering overtone.
+1,14,32,audio-v2-0383,A crowd murmuring continuously.
+1,15,1,audio-v2-0142,A welding torch hissing steadily.
+1,15,2,audio-v2-0213,A bucket sloshing with water.
+1,15,3,audio-v2-0016,A donkey braying loudly.
+1,15,4,audio-v2-0774,A dry close-mic recording.
+1,15,5,audio-v2-0567,A sound starting and stopping repeatedly.
+1,15,6,audio-v2-0274,A narrow whistle with strong overtones.
+1,15,7,audio-v2-0585,A back-and-forth alternating rhythm.
+1,15,8,audio-v2-0206,A glass bottle clinking on a counter.
+1,15,9,audio-v2-0789,A cluster of voices receding together.
+1,15,10,audio-v2-0447,A vibraphone sustaining a shimmer.
+1,15,11,audio-v2-0613,A staccato chain of discrete attacks.
+1,15,12,audio-v2-0103,A car door locking automatically.
+1,15,13,audio-v2-0382,A crowd cheering briefly.
+1,15,14,audio-v2-0102,A bus braking with a hiss.
+1,15,15,audio-v2-0465,A flute and guitar playing together.
+1,15,16,audio-v2-0364,A spoken phrase with an echo.
+1,15,17,audio-v2-0021,Rain pattering on leaves.
+1,15,18,audio-v2-0425,A kick drum thumping steadily.
+1,15,19,audio-v2-0215,A vacuum hose bumping furniture.
+1,15,20,audio-v2-0328,A person sobbing audibly.
+1,15,21,audio-v2-0560,A faint scratchy whisper of sound.
+1,15,22,audio-v2-0007,Bees buzzing continuously.
+1,15,23,audio-v2-0647,A percussive sound with no sustain.
+1,15,24,audio-v2-0333,A person humming a melody.
+1,15,25,audio-v2-0071,Seabirds crying above waves.
+1,15,26,audio-v2-0605,A beat grouped in threes.
+1,15,27,audio-v2-0140,A propeller aircraft droning overhead.
+1,15,28,audio-v2-0086,A subway rumbling underground.
+1,15,29,audio-v2-0445,Maracas shaking rhythmically.
+1,15,30,audio-v2-0698,A loud foreground burst.
+1,15,31,audio-v2-0450,A violin pizzicato pattern.
+1,15,32,audio-v2-0350,A woman speaking with crisp diction.
+1,16,1,audio-v2-0226,A blind cord pulling taut.
+1,16,2,audio-v2-0106,A blender motor spinning quickly.
+1,16,3,audio-v2-0510,A woody tapped sound.
+1,16,4,audio-v2-0390,A call-and-response chant.
+1,16,5,audio-v2-0081,A car engine idling steadily.
+1,16,6,audio-v2-0212,Water running into a sink.
+1,16,7,audio-v2-0098,A printer feeding paper.
+1,16,8,audio-v2-0051,Pebbles rolling downhill.
+1,16,9,audio-v2-0396,A voice cracking with age.
+1,16,10,audio-v2-0358,A soft snore.
+1,16,11,audio-v2-0428,A church bell ringing musically.
+1,16,12,audio-v2-0179,A fork scraping a plate.
+1,16,13,audio-v2-0360,A kiss sound from pursed lips.
+1,16,14,audio-v2-0197,A staircase step groaning.
+1,16,15,audio-v2-0681,A hammer-like onset.
+1,16,16,audio-v2-0588,A pair of sounds separated by silence.
+1,16,17,audio-v2-0006,A gull giving piercing cries.
+1,16,18,audio-v2-0169,A shower spraying water.
+1,16,19,audio-v2-0350,A woman speaking with crisp diction.
+1,16,20,audio-v2-0404,A bass guitar playing a riff.
+1,16,21,audio-v2-0603,A stop-start pattern.
+1,16,22,audio-v2-0121,A scooter zipping past quickly.
+1,16,23,audio-v2-0247,A short upward pitch chirp.
+1,16,24,audio-v2-0176,A window rattling in the wind.
+1,16,25,audio-v2-0327,A person laughing openly.
+1,16,26,audio-v2-0429,A ukulele strumming lightly.
+1,16,27,audio-v2-0133,A lift motor rising smoothly.
+1,16,28,audio-v2-0289,A high glassy resonance.
+1,16,29,audio-v2-0037,Fire popping in a fireplace.
+1,16,30,audio-v2-0233,A plastic cup crinkling in a hand.
+1,16,31,audio-v2-0229,A metal tray ringing on the counter.
+1,16,32,audio-v2-0464,A conga pattern with hand strikes.
+1,17,1,audio-v2-0013,A sheep bleating softly.
+1,17,2,audio-v2-0578,A call with a long pause.
+1,17,3,audio-v2-0041,Frogs croaking beside water.
+1,17,4,audio-v2-0231,A rolling pin thumping dough.
+1,17,5,audio-v2-0082,A motorcycle engine rattling loudly.
+1,17,6,audio-v2-0136,A fan belt squealing briefly.
+1,17,7,audio-v2-0017,A bee swarm humming densely.
+1,17,8,audio-v2-0336,A distorted voice over a radio.
+1,17,9,audio-v2-0091,A drill boring into wood.
+1,17,10,audio-v2-0450,A violin pizzicato pattern.
+1,17,11,audio-v2-0409,A trumpet playing a bright phrase.
+1,17,12,audio-v2-0246,Several clashing pitched tones.
+1,17,13,audio-v2-0014,A rooster crowing at dawn.
+1,17,14,audio-v2-0387,A voice with soft vowels.
+1,17,15,audio-v2-0330,A person sighing slowly.
+1,17,16,audio-v2-0552,A soft rustling layer.
+1,17,17,audio-v2-0146,A shipping container rattling on impact.
+1,17,18,audio-v2-0421,A tuba sustaining a low note.
+1,17,19,audio-v2-0103,A car door locking automatically.
+1,17,20,audio-v2-0137,A truck reversing with beeps.
+1,17,21,audio-v2-0214,A mop swishing over tiles.
+1,17,22,audio-v2-0507,A sizzling noisy surface.
+1,17,23,audio-v2-0371,A whispered conversation.
+1,17,24,audio-v2-0768,A foreground burst over ambient room tone.
+1,17,25,audio-v2-0257,A sharp resonant ring.
+1,17,26,audio-v2-0341,A cheerful voice with bright tone.
+1,17,27,audio-v2-0328,A person sobbing audibly.
+1,17,28,audio-v2-0131,A cash machine whirring and clicking.
+1,17,29,audio-v2-0132,An escalator humming and rumbling.
+1,17,30,audio-v2-0438,A piano chord resolving gently.
+1,17,31,audio-v2-0464,A conga pattern with hand strikes.
+1,17,32,audio-v2-0188,A bottle cap twisting off.
+1,18,1,audio-v2-0070,Sparrows twittering in a hedge.
+1,18,2,audio-v2-0064,Hail rattling against metal.
+1,18,3,audio-v2-0116,A sandblaster hissing under pressure.
+1,18,4,audio-v2-0164,Dishes clattering in a sink.
+1,18,5,audio-v2-0082,A motorcycle engine rattling loudly.
+1,18,6,audio-v2-0531,A sizzling crackle layer.
+1,18,7,audio-v2-0385,A voice speaking through clenched teeth.
+1,18,8,audio-v2-0279,A piercing upper partial.
+1,18,9,audio-v2-0062,A distant thunderstorm rolling in.
+1,18,10,audio-v2-0049,Grasshoppers chirring in the field.
+1,18,11,audio-v2-0072,A fish splashing at the surface.
+1,18,12,audio-v2-0002,A cat meowing in short bursts.
+1,18,13,audio-v2-0431,A concertina wheezing through chords.
+1,18,14,audio-v2-0335,A person whistling a tune.
+1,18,15,audio-v2-0151,A scooter bell chiming briefly.
+1,18,16,audio-v2-0647,A percussive sound with no sustain.
+1,18,17,audio-v2-0106,A blender motor spinning quickly.
+1,18,18,audio-v2-0581,A stuttering sequence of taps.
+1,18,19,audio-v2-0730,Footsteps over a crowd murmur.
+1,18,20,audio-v2-0412,A hi-hat opening and closing.
+1,18,21,audio-v2-0800,A layered scene with clear depth cues.
+1,18,22,audio-v2-0101,A forklift beeping while reversing.
+1,18,23,audio-v2-0464,A conga pattern with hand strikes.
+1,18,24,audio-v2-0229,A metal tray ringing on the counter.
+1,18,25,audio-v2-0186,A chair creaking under weight.
+1,18,26,audio-v2-0393,A breathy laugh.
+1,18,27,audio-v2-0501,A hollow resonant sound.
+1,18,28,audio-v2-0723,A voice echoing in a large room.
+1,18,29,audio-v2-0237,A suitcase zipper tugging closed.
+1,18,30,audio-v2-0150,A windshield wiper swishing back and forth.
+1,18,31,audio-v2-0121,A scooter zipping past quickly.
+1,18,32,audio-v2-0341,A cheerful voice with bright tone.
+1,19,1,audio-v2-0350,A woman speaking with crisp diction.
+1,19,2,audio-v2-0372,A speaking voice with pauses.
+1,19,3,audio-v2-0209,A plate sliding across a table.
+1,19,4,audio-v2-0772,A faucet running behind a conversation.
+1,19,5,audio-v2-0027,Water gurgling inside a cave.
+1,19,6,audio-v2-0348,A child calling out.
+1,19,7,audio-v2-0115,A circular saw buzzing loudly.
+1,19,8,audio-v2-0108,A washing machine tumbling clothes.
+1,19,9,audio-v2-0046,An elephant trumpeting briefly.
+1,19,10,audio-v2-0198,Footsteps on a wooden floor.
+1,19,11,audio-v2-0380,A person humming softly.
+1,19,12,audio-v2-0175,A clock ticking evenly.
+1,19,13,audio-v2-0103,A car door locking automatically.
+1,19,14,audio-v2-0443,A string quartet playing in unison.
+1,19,15,audio-v2-0359,A loud yawn.
+1,19,16,audio-v2-0514,A shimmery metallic sheen.
+1,19,17,audio-v2-0157,A smoke alarm chirping repeatedly.
+1,19,18,audio-v2-0398,A close-miked whispery voice.
+1,19,19,audio-v2-0205,A plastic container snapping shut.
+1,19,20,audio-v2-0363,A chant repeated by a group.
+1,19,21,audio-v2-0014,A rooster crowing at dawn.
+1,19,22,audio-v2-0219,A sponge wiping a wet surface.
+1,19,23,audio-v2-0429,A ukulele strumming lightly.
+1,19,24,audio-v2-0444,A hand drum ensemble improvising.
+1,19,25,audio-v2-0707,A sound that starts abruptly and lingers.
+1,19,26,audio-v2-0131,A cash machine whirring and clicking.
+1,19,27,audio-v2-0428,A church bell ringing musically.
+1,19,28,audio-v2-0744,A source approaching gradually.
+1,19,29,audio-v2-0005,Geese honking in a group.
+1,19,30,audio-v2-0127,A record player spinning steadily.
+1,19,31,audio-v2-0667,A slow fade in at the start.
+1,19,32,audio-v2-0606,A beat grouped in fours.
+1,20,1,audio-v2-0404,A bass guitar playing a riff.
+1,20,2,audio-v2-0003,A horse snorting forcefully.
+1,20,3,audio-v2-0455,A distorted electric guitar chord.
+1,20,4,audio-v2-0401,A piano playing single notes.
+1,20,5,audio-v2-0432,A fiddle playing a dance tune.
+1,20,6,audio-v2-0429,A ukulele strumming lightly.
+1,20,7,audio-v2-0159,A chainsaw revving then cutting.
+1,20,8,audio-v2-0723,A voice echoing in a large room.
+1,20,9,audio-v2-0314,A grainy tone with harmonics.
+1,20,10,audio-v2-0570,A sound cycling through several textures.
+1,20,11,audio-v2-0164,Dishes clattering in a sink.
+1,20,12,audio-v2-0018,A mouse squeaking faintly.
+1,20,13,audio-v2-0279,A piercing upper partial.
+1,20,14,audio-v2-0501,A hollow resonant sound.
+1,20,15,audio-v2-0653,A recording with large volume contrasts.
+1,20,16,audio-v2-0148,A tram bell ringing lightly.
+1,20,17,audio-v2-0465,A flute and guitar playing together.
+1,20,18,audio-v2-0028,Waves crashing onto shore.
+1,20,19,audio-v2-0436,A muted trumpet playing softly.
+1,20,20,audio-v2-0339,A whisper spoken close to the mic.
+1,20,21,audio-v2-0273,A tone held at one pitch.
+1,20,22,audio-v2-0349,A man speaking in a deep voice.
+1,20,23,audio-v2-0332,A person swallowing audibly.
+1,20,24,audio-v2-0460,A snare hit with a rimshot.
+1,20,25,audio-v2-0573,A steady beat in groups of two.
+1,20,26,audio-v2-0204,A laundry basket rattling.
+1,20,27,audio-v2-0480,A percussion break with scattered hits.
+1,20,28,audio-v2-0359,A loud yawn.
+1,20,29,audio-v2-0494,A sound with a shimmering overtone.
+1,20,30,audio-v2-0174,A ball bouncing repeatedly.
+1,20,31,audio-v2-0116,A sandblaster hissing under pressure.
+1,20,32,audio-v2-0588,A pair of sounds separated by silence.
+1,21,1,audio-v2-0465,A flute and guitar playing together.
+1,21,2,audio-v2-0136,A fan belt squealing briefly.
+1,21,3,audio-v2-0424,A tambourine shaking in time.
+1,21,4,audio-v2-0094,A hammer drill pounding repeatedly.
+1,21,5,audio-v2-0477,A soft drum machine beat.
+1,21,6,audio-v2-0185,A metal chair scraping the floor.
+1,21,7,audio-v2-0458,A piano arpeggio running upward.
+1,21,8,audio-v2-0173,A plastic bag rustling.
+1,21,9,audio-v2-0735,A sound partly blocked and muffled.
+1,21,10,audio-v2-0033,Stormy gust rattling branches.
+1,21,11,audio-v2-0616,A pair of alternating motifs.
+1,21,12,audio-v2-0249,A narrow band of high frequencies.
+1,21,13,audio-v2-0078,A camel grunting in the distance.
+1,21,14,audio-v2-0775,A roomy distant recording.
+1,21,15,audio-v2-0102,A bus braking with a hiss.
+1,21,16,audio-v2-0417,A cello bowing long tones.
+1,21,17,audio-v2-0338,Several voices overlapping in chatter.
+1,21,18,audio-v2-0106,A blender motor spinning quickly.
+1,21,19,audio-v2-0083,Tires squealing during a turn.
+1,21,20,audio-v2-0430,A banjo picking quick notes.
+1,21,21,audio-v2-0206,A glass bottle clinking on a counter.
+1,21,22,audio-v2-0127,A record player spinning steadily.
+1,21,23,audio-v2-0109,A cash register clacking open.
+1,21,24,audio-v2-0350,A woman speaking with crisp diction.
+1,21,25,audio-v2-0214,A mop swishing over tiles.
+1,21,26,audio-v2-0695,A dynamic arc peaking near the middle.
+1,21,27,audio-v2-0054,Snow crunching beneath boots.
+1,21,28,audio-v2-0011,A squirrel chattering rapidly.
+1,21,29,audio-v2-0679,A soft attack and abrupt stop.
+1,21,30,audio-v2-0478,A glockenspiel chiming delicately.
+1,21,31,audio-v2-0161,A wooden door creaking open.
+1,21,32,audio-v2-0413,Bongos playing alternating strokes.
+1,22,1,audio-v2-0122,A car horn honking sharply.
+1,22,2,audio-v2-0233,A plastic cup crinkling in a hand.
+1,22,3,audio-v2-0421,A tuba sustaining a low note.
+1,22,4,audio-v2-0079,An ant colony rustling in soil.
+1,22,5,audio-v2-0147,A cart wheel squeaking along.
+1,22,6,audio-v2-0238,A coat zipper snagging briefly.
+1,22,7,audio-v2-0178,A spoon scraping a bowl.
+1,22,8,audio-v2-0600,A long gap between two hits.
+1,22,9,audio-v2-0106,A blender motor spinning quickly.
+1,22,10,audio-v2-0603,A stop-start pattern.
+1,22,11,audio-v2-0419,A clarinet playing a mellow line.
+1,22,12,audio-v2-0014,A rooster crowing at dawn.
+1,22,13,audio-v2-0148,A tram bell ringing lightly.
+1,22,14,audio-v2-0450,A violin pizzicato pattern.
+1,22,15,audio-v2-0510,A woody tapped sound.
+1,22,16,audio-v2-0284,A smooth pitch arc.
+1,22,17,audio-v2-0072,A fish splashing at the surface.
+1,22,18,audio-v2-0026,Water dripping into a bucket.
+1,22,19,audio-v2-0404,A bass guitar playing a riff.
+1,22,20,audio-v2-0410,A brass ensemble playing chords.
+1,22,21,audio-v2-0097,A ventilation fan humming nonstop.
+1,22,22,audio-v2-0389,A voice speaking in fragments.
+1,22,23,audio-v2-0232,A can opening with a hiss.
+1,22,24,audio-v2-0384,Overlapping laughter and speech.
+1,22,25,audio-v2-0139,A helicopter blades chopping the air.
+1,22,26,audio-v2-0042,Cicadas buzzing loudly at dusk.
+1,22,27,audio-v2-0738,A close voice with little room sound.
+1,22,28,audio-v2-0013,A sheep bleating softly.
+1,22,29,audio-v2-0008,A frog croaking repeatedly.
+1,22,30,audio-v2-0150,A windshield wiper swishing back and forth.
+1,22,31,audio-v2-0336,A distorted voice over a radio.
+1,22,32,audio-v2-0399,A rounded vowel sound.
+1,23,1,audio-v2-0020,A lion roaring once.
+1,23,2,audio-v2-0358,A soft snore.
+1,23,3,audio-v2-0002,A cat meowing in short bursts.
+1,23,4,audio-v2-0335,A person whistling a tune.
+1,23,5,audio-v2-0004,A pig grunting steadily.
+1,23,6,audio-v2-0015,A wolf howling in the distance.
+1,23,7,audio-v2-0371,A whispered conversation.
+1,23,8,audio-v2-0639,A two-part phrase repeated twice.
+1,23,9,audio-v2-0189,A jar lid opening with a pop.
+1,23,10,audio-v2-0566,A rhythm with uneven accents.
+1,23,11,audio-v2-0591,A continual flutter without clear breaks.
+1,23,12,audio-v2-0359,A loud yawn.
+1,23,13,audio-v2-0068,A log settling with a creak.
+1,23,14,audio-v2-0508,A crackling brittle layer.
+1,23,15,audio-v2-0037,Fire popping in a fireplace.
+1,23,16,audio-v2-0184,Keys clinking on a ring.
+1,23,17,audio-v2-0582,A clustered burst followed by silence.
+1,23,18,audio-v2-0162,A drawer sliding on rails.
+1,23,19,audio-v2-0546,A smooth glasslike resonance.
+1,23,20,audio-v2-0100,A crossing signal beeping rhythmically.
+1,23,21,audio-v2-0306,A faint high-pitched line.
+1,23,22,audio-v2-0131,A cash machine whirring and clicking.
+1,23,23,audio-v2-0003,A horse snorting forcefully.
+1,23,24,audio-v2-0385,A voice speaking through clenched teeth.
+1,23,25,audio-v2-0028,Waves crashing onto shore.
+1,23,26,audio-v2-0443,A string quartet playing in unison.
+1,23,27,audio-v2-0448,A celesta playing bell-like notes.
+1,23,28,audio-v2-0792,A pair of sources overlapping in depth.
+1,23,29,audio-v2-0723,A voice echoing in a large room.
+1,23,30,audio-v2-0104,A diesel engine coughing into life.
+1,23,31,audio-v2-0159,A chainsaw revving then cutting.
+1,23,32,audio-v2-0213,A bucket sloshing with water.
+1,24,1,audio-v2-0005,Geese honking in a group.
+1,24,2,audio-v2-0001,A dog barking repeatedly.
+1,24,3,audio-v2-0703,A continuous sound with no break.
+1,24,4,audio-v2-0014,A rooster crowing at dawn.
+1,24,5,audio-v2-0012,A bat making rapid squeaks.
+1,24,6,audio-v2-0330,A person sighing slowly.
+1,24,7,audio-v2-0253,An ascending siren wail.
+1,24,8,audio-v2-0044,Ducks quacking near water.
+1,24,9,audio-v2-0367,A singsong voice.
+1,24,10,audio-v2-0019,A seal barking from afar.
+1,24,11,audio-v2-0177,A cabinet door shutting softly.
+1,24,12,audio-v2-0315,A ringing note with a bright edge.
+1,24,13,audio-v2-0788,A sound hanging in a reverberant hall.
+1,24,14,audio-v2-0238,A coat zipper snagging briefly.
+1,24,15,audio-v2-0570,A sound cycling through several textures.
+1,24,16,audio-v2-0159,A chainsaw revving then cutting.
+1,24,17,audio-v2-0003,A horse snorting forcefully.
+1,24,18,audio-v2-0800,A layered scene with clear depth cues.
+1,24,19,audio-v2-0162,A drawer sliding on rails.
+1,24,20,audio-v2-0002,A cat meowing in short bursts.
+1,24,21,audio-v2-0055,Ice cracking on a pond.
+1,24,22,audio-v2-0150,A windshield wiper swishing back and forth.
+1,24,23,audio-v2-0112,A chain moving through gears.
+1,24,24,audio-v2-0464,A conga pattern with hand strikes.
+1,24,25,audio-v2-0494,A sound with a shimmering overtone.
+1,24,26,audio-v2-0338,Several voices overlapping in chatter.
+1,24,27,audio-v2-0579,A pattern of alternating short and long events.
+1,24,28,audio-v2-0004,A pig grunting steadily.
+1,24,29,audio-v2-0426,A full drum kit playing a groove.
+1,24,30,audio-v2-0091,A drill boring into wood.
+1,24,31,audio-v2-0450,A violin pizzicato pattern.
+1,24,32,audio-v2-0349,A man speaking in a deep voice.
+1,25,1,audio-v2-0578,A call with a long pause.
+1,25,2,audio-v2-0240,A curtain rod clacking against brackets.
+1,25,3,audio-v2-0232,A can opening with a hiss.
+1,25,4,audio-v2-0183,Coins jingling in a pocket.
+1,25,5,audio-v2-0215,A vacuum hose bumping furniture.
+1,25,6,audio-v2-0128,A turntable needle crackling slightly.
+1,25,7,audio-v2-0646,A sudden surge in volume.
+1,25,8,audio-v2-0651,A sharp impact followed by ringing.
+1,25,9,audio-v2-0012,A bat making rapid squeaks.
+1,25,10,audio-v2-0774,A dry close-mic recording.
+1,25,11,audio-v2-0410,A brass ensemble playing chords.
+1,25,12,audio-v2-0161,A wooden door creaking open.
+1,25,13,audio-v2-0095,A lawn mower running steadily.
+1,25,14,audio-v2-0451,A harp glissando sweeping upward.
+1,25,15,audio-v2-0303,A tone arcing over a wide range.
+1,25,16,audio-v2-0237,A suitcase zipper tugging closed.
+1,25,17,audio-v2-0209,A plate sliding across a table.
+1,25,18,audio-v2-0402,An electric piano playing softly.
+1,25,19,audio-v2-0066,Smoke crackling through dry wood.
+1,25,20,audio-v2-0051,Pebbles rolling downhill.
+1,25,21,audio-v2-0102,A bus braking with a hiss.
+1,25,22,audio-v2-0332,A person swallowing audibly.
+1,25,23,audio-v2-0775,A roomy distant recording.
+1,25,24,audio-v2-0015,A wolf howling in the distance.
+1,25,25,audio-v2-0394,A strained voice under pressure.
+1,25,26,audio-v2-0114,A nail gun firing bursts.
+1,25,27,audio-v2-0605,A beat grouped in threes.
+1,25,28,audio-v2-0350,A woman speaking with crisp diction.
+1,25,29,audio-v2-0137,A truck reversing with beeps.
+1,25,30,audio-v2-0678,A brief accent on each note.
+1,25,31,audio-v2-0772,A faucet running behind a conversation.
+1,25,32,audio-v2-0464,A conga pattern with hand strikes.
+1,26,1,audio-v2-0085,A train clattering over tracks.
+1,26,2,audio-v2-0140,A propeller aircraft droning overhead.
+1,26,3,audio-v2-0391,A shouted phrase with force.
+1,26,4,audio-v2-0131,A cash machine whirring and clicking.
+1,26,5,audio-v2-0203,A towel fluttering and snapping.
+1,26,6,audio-v2-0042,Cicadas buzzing loudly at dusk.
+1,26,7,audio-v2-0103,A car door locking automatically.
+1,26,8,audio-v2-0120,A train horn sounding twice.
+1,26,9,audio-v2-0450,A violin pizzicato pattern.
+1,26,10,audio-v2-0378,A baby crying loudly.
+1,26,11,audio-v2-0413,Bongos playing alternating strokes.
+1,26,12,audio-v2-0152,A race car accelerating hard.
+1,26,13,audio-v2-0104,A diesel engine coughing into life.
+1,26,14,audio-v2-0027,Water gurgling inside a cave.
+1,26,15,audio-v2-0240,A curtain rod clacking against brackets.
+1,26,16,audio-v2-0219,A sponge wiping a wet surface.
+1,26,17,audio-v2-0580,A pulse train with equal spacing.
+1,26,18,audio-v2-0028,Waves crashing onto shore.
+1,26,19,audio-v2-0067,A brook flowing gently.
+1,26,20,audio-v2-0051,Pebbles rolling downhill.
+1,26,21,audio-v2-0561,A single isolated sound.
+1,26,22,audio-v2-0647,A percussive sound with no sustain.
+1,26,23,audio-v2-0124,A timer beeping at intervals.
+1,26,24,audio-v2-0572,A sparse series of large impacts.
+1,26,25,audio-v2-0117,A compressor cycling on and off.
+1,26,26,audio-v2-0208,A spoon dropping into a cup.
+1,26,27,audio-v2-0321,One person speaking clearly.
+1,26,28,audio-v2-0054,Snow crunching beneath boots.
+1,26,29,audio-v2-0005,Geese honking in a group.
+1,26,30,audio-v2-0448,A celesta playing bell-like notes.
+1,26,31,audio-v2-0595,A sequence of isolated clicks.
+1,26,32,audio-v2-0519,A thin reedlike buzz.
+1,27,1,audio-v2-0791,A foreground beep amid soft ambience.
+1,27,2,audio-v2-0428,A church bell ringing musically.
+1,27,3,audio-v2-0478,A glockenspiel chiming delicately.
+1,27,4,audio-v2-0528,A hollow boxy resonance.
+1,27,5,audio-v2-0284,A smooth pitch arc.
+1,27,6,audio-v2-0175,A clock ticking evenly.
+1,27,7,audio-v2-0555,A dense clustered noise.
+1,27,8,audio-v2-0434,A flute trill fluttering rapidly.
+1,27,9,audio-v2-0550,A noiseless pure tone.
+1,27,10,audio-v2-0413,Bongos playing alternating strokes.
+1,27,11,audio-v2-0107,A vacuum cleaner running steadily.
+1,27,12,audio-v2-0131,A cash machine whirring and clicking.
+1,27,13,audio-v2-0678,A brief accent on each note.
+1,27,14,audio-v2-0420,A trombone sliding between notes.
+1,27,15,audio-v2-0658,A loud opening burst then quick decay.
+1,27,16,audio-v2-0030,A puddle splashing under footsteps.
+1,27,17,audio-v2-0632,A repeating signal with an accent every third hit.
+1,27,18,audio-v2-0238,A coat zipper snagging briefly.
+1,27,19,audio-v2-0371,A whispered conversation.
+1,27,20,audio-v2-0232,A can opening with a hiss.
+1,27,21,audio-v2-0020,A lion roaring once.
+1,27,22,audio-v2-0134,A garage door rolling upward.
+1,27,23,audio-v2-0092,A grinder scraping metal.
+1,27,24,audio-v2-0169,A shower spraying water.
+1,27,25,audio-v2-0384,Overlapping laughter and speech.
+1,27,26,audio-v2-0042,Cicadas buzzing loudly at dusk.
+1,27,27,audio-v2-0168,Water pouring into a glass.
+1,27,28,audio-v2-0588,A pair of sounds separated by silence.
+1,27,29,audio-v2-0432,A fiddle playing a dance tune.
+1,27,30,audio-v2-0321,One person speaking clearly.
+1,27,31,audio-v2-0539,A papery tearing texture.
+1,27,32,audio-v2-0705,A swelling burst of energy.
+1,28,1,audio-v2-0772,A faucet running behind a conversation.
+1,28,2,audio-v2-0364,A spoken phrase with an echo.
+1,28,3,audio-v2-0759,A sound outside in open air.
+1,28,4,audio-v2-0414,A xylophone playing bright notes.
+1,28,5,audio-v2-0168,Water pouring into a glass.
+1,28,6,audio-v2-0588,A pair of sounds separated by silence.
+1,28,7,audio-v2-0593,A rhythm that halves in speed.
+1,28,8,audio-v2-0512,A sharp percussive texture.
+1,28,9,audio-v2-0368,A pleading tone of speech.
+1,28,10,audio-v2-0412,A hi-hat opening and closing.
+1,28,11,audio-v2-0797,A muffled sound behind a closed door.
+1,28,12,audio-v2-0453,A trumpet fanfare burst.
+1,28,13,audio-v2-0465,A flute and guitar playing together.
+1,28,14,audio-v2-0097,A ventilation fan humming nonstop.
+1,28,15,audio-v2-0349,A man speaking in a deep voice.
+1,28,16,audio-v2-0078,A camel grunting in the distance.
+1,28,17,audio-v2-0161,A wooden door creaking open.
+1,28,18,audio-v2-0181,A pan sizzling on the stove.
+1,28,19,audio-v2-0131,A cash machine whirring and clicking.
+1,28,20,audio-v2-0398,A close-miked whispery voice.
+1,28,21,audio-v2-0385,A voice speaking through clenched teeth.
+1,28,22,audio-v2-0347,A group laughing together.
+1,28,23,audio-v2-0555,A dense clustered noise.
+1,28,24,audio-v2-0558,A shimmering noisy halo.
+1,28,25,audio-v2-0199,Footsteps on carpeted stairs.
+1,28,26,audio-v2-0064,Hail rattling against metal.
+1,28,27,audio-v2-0355,An emotional cry from pain.
+1,28,28,audio-v2-0348,A child calling out.
+1,28,29,audio-v2-0127,A record player spinning steadily.
+1,28,30,audio-v2-0424,A tambourine shaking in time.
+1,28,31,audio-v2-0188,A bottle cap twisting off.
+1,28,32,audio-v2-0100,A crossing signal beeping rhythmically.
+1,29,1,audio-v2-0798,A crisp source in a dry acoustic space.
+1,29,2,audio-v2-0098,A printer feeding paper.
+1,29,3,audio-v2-0630,A metronome-like steady beat.
+1,29,4,audio-v2-0376,A dry cough.
+1,29,5,audio-v2-0336,A distorted voice over a radio.
+1,29,6,audio-v2-0068,A log settling with a creak.
+1,29,7,audio-v2-0158,A lawn trimmer buzzing near grass.
+1,29,8,audio-v2-0468,A double-reed instrument buzzing.
+1,29,9,audio-v2-0410,A brass ensemble playing chords.
+1,29,10,audio-v2-0221,A lighter clicking open.
+1,29,11,audio-v2-0209,A plate sliding across a table.
+1,29,12,audio-v2-0048,A parrot squawking repeatedly.
+1,29,13,audio-v2-0015,A wolf howling in the distance.
+1,29,14,audio-v2-0262,A rising glissando.
+1,29,15,audio-v2-0024,A river rushing strongly.
+1,29,16,audio-v2-0770,A car passing while wind remains.
+1,29,17,audio-v2-0168,Water pouring into a glass.
+1,29,18,audio-v2-0647,A percussive sound with no sustain.
+1,29,19,audio-v2-0166,A kettle whistling loudly.
+1,29,20,audio-v2-0347,A group laughing together.
+1,29,21,audio-v2-0480,A percussion break with scattered hits.
+1,29,22,audio-v2-0588,A pair of sounds separated by silence.
+1,29,23,audio-v2-0434,A flute trill fluttering rapidly.
+1,29,24,audio-v2-0653,A recording with large volume contrasts.
+1,29,25,audio-v2-0460,A snare hit with a rimshot.
+1,29,26,audio-v2-0524,A brittle high-frequency fizz.
+1,29,27,audio-v2-0642,A sound with constant loudness.
+1,29,28,audio-v2-0418,A harp arpeggiating gently.
+1,29,29,audio-v2-0796,A nearby footstep on a reverberant surface.
+1,29,30,audio-v2-0414,A xylophone playing bright notes.
+1,29,31,audio-v2-0412,A hi-hat opening and closing.
+1,29,32,audio-v2-0133,A lift motor rising smoothly.
+1,30,1,audio-v2-0084,A truck engine roaring away.
+1,30,2,audio-v2-0122,A car horn honking sharply.
+1,30,3,audio-v2-0104,A diesel engine coughing into life.
+1,30,4,audio-v2-0152,A race car accelerating hard.
+1,30,5,audio-v2-0673,A loud midsection framed by quiet.
+1,30,6,audio-v2-0089,A bicycle freewheel ticking rapidly.
+1,30,7,audio-v2-0142,A welding torch hissing steadily.
+1,30,8,audio-v2-0083,Tires squealing during a turn.
+1,30,9,audio-v2-0397,A noisy call from far away.
+1,30,10,audio-v2-0390,A call-and-response chant.
+1,30,11,audio-v2-0755,A sound with repeating echoes.
+1,30,12,audio-v2-0025,A stream babbling over stones.
+1,30,13,audio-v2-0090,A plane engine whirring overhead.
+1,30,14,audio-v2-0035,Thunder cracking sharply overhead.
+1,30,15,audio-v2-0253,An ascending siren wail.
+1,30,16,audio-v2-0143,A lathe spinning metal.
+1,30,17,audio-v2-0229,A metal tray ringing on the counter.
+1,30,18,audio-v2-0159,A chainsaw revving then cutting.
+1,30,19,audio-v2-0786,A close impact with immediate reflections.
+1,30,20,audio-v2-0288,A melody fragment ending low.
+1,30,21,audio-v2-0403,An acoustic guitar being strummed.
+1,30,22,audio-v2-0450,A violin pizzicato pattern.
+1,30,23,audio-v2-0103,A car door locking automatically.
+1,30,24,audio-v2-0228,A glass pane tapping lightly.
+1,30,25,audio-v2-0192,Book pages flipping rapidly.
+1,30,26,audio-v2-0222,A candle wick crackling softly.
+1,30,27,audio-v2-0190,A zipper sliding open.
+1,30,28,audio-v2-0437,A bass clarinet sounding darkly.
+1,30,29,audio-v2-0396,A voice cracking with age.
+1,30,30,audio-v2-0412,A hi-hat opening and closing.
+1,30,31,audio-v2-0478,A glockenspiel chiming delicately.
+1,30,32,audio-v2-0678,A brief accent on each note.
+1,31,1,audio-v2-0443,A string quartet playing in unison.
+1,31,2,audio-v2-0042,Cicadas buzzing loudly at dusk.
+1,31,3,audio-v2-0598,A pulse pattern with occasional gaps.
+1,31,4,audio-v2-0321,One person speaking clearly.
+1,31,5,audio-v2-0087,A boat motor puttering softly.
+1,31,6,audio-v2-0063,Frosty branches cracking lightly.
+1,31,7,audio-v2-0217,A dustpan scraping the ground.
+1,31,8,audio-v2-0177,A cabinet door shutting softly.
+1,31,9,audio-v2-0791,A foreground beep amid soft ambience.
+1,31,10,audio-v2-0003,A horse snorting forcefully.
+1,31,11,audio-v2-0451,A harp glissando sweeping upward.
+1,31,12,audio-v2-0402,An electric piano playing softly.
+1,31,13,audio-v2-0153,A truck suspension clunking over bumps.
+1,31,14,audio-v2-0733,Several layers dropping out one by one.
+1,31,15,audio-v2-0764,A source crossing the center line.
+1,31,16,audio-v2-0466,A choir with instruments underneath.
+1,31,17,audio-v2-0169,A shower spraying water.
+1,31,18,audio-v2-0336,A distorted voice over a radio.
+1,31,19,audio-v2-0384,Overlapping laughter and speech.
+1,31,20,audio-v2-0656,A sound trailing into a faint vibration.
+1,31,21,audio-v2-0122,A car horn honking sharply.
+1,31,22,audio-v2-0208,A spoon dropping into a cup.
+1,31,23,audio-v2-0385,A voice speaking through clenched teeth.
+1,31,24,audio-v2-0227,A window sash sliding upward.
+1,31,25,audio-v2-0389,A voice speaking in fragments.
+1,31,26,audio-v2-0464,A conga pattern with hand strikes.
+1,31,27,audio-v2-0450,A violin pizzicato pattern.
+1,31,28,audio-v2-0048,A parrot squawking repeatedly.
+1,31,29,audio-v2-0730,Footsteps over a crowd murmur.
+1,31,30,audio-v2-0181,A pan sizzling on the stove.
+1,31,31,audio-v2-0341,A cheerful voice with bright tone.
+1,31,32,audio-v2-0154,A subway track rumbling by.
